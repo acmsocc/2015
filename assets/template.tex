@@ -1,0 +1,155 @@
+%-----------------------------------------------------------------------------
+%
+%               Template for sigplanconf LaTeX Class
+%
+% Name:         sigplanconf-template.tex
+%
+% Purpose:      A template for sigplanconf.cls, which is a LaTeX 2e class
+%               file for SIGPLAN conference proceedings.
+%
+% Guide:        Refer to "Author's Guide to the ACM SIGPLAN Class,"
+%               sigplanconf-guide.pdf
+%
+% Author:       Paul C. Anagnostopoulos
+%               Windfall Software
+%               978 371-2316
+%               paul@windfall.com
+%
+% Created:      15 February 2005
+%
+%-----------------------------------------------------------------------------
+
+
+\documentclass[10pt,reprint]{socc15}
+
+\usepackage{amsmath}
+\usepackage{mathptmx}
+
+\begin{document}
+
+\special{papersize=8.5in,11in}
+\setlength{\pdfpageheight}{\paperheight}
+\setlength{\pdfpagewidth}{\paperwidth}
+
+\conferenceinfo{Submission to SoCC '15}{August, 2015, Kohala Coast, HI, USA} 
+\copyrightyear{2014} 
+\copyrightdata{978-1-nnnn-nnnn-n/yy/mm} 
+\doi{nnnnnnn.nnnnnnn}
+
+% Uncomment one of the following two, if you are not going for the 
+% traditional copyright transfer agreement.
+
+%\exclusivelicense                % ACM gets exclusive license to publish, 
+                                  % you retain copyright
+
+%\permissiontopublish             % ACM gets nonexclusive license to publish
+                                  % (paid open-access papers, 
+                                  % short abstracts)
+
+%\titlebanner{banner above paper title}        % These are ignored unless
+%\preprintfooter{short description of paper}   % 'preprint' option specified.
+
+\title{Title Text}
+\subtitle{Subtitle text, if any}
+
+\authorinfo{Name1}
+           {Affiliation1}
+           {Email1}
+\authorinfo{Name2\and Name3}
+           {Affiliation2/3}
+           {Email2/3}
+
+\maketitle
+
+\begin{abstract}
+This is the text of the abstract.
+\end{abstract}
+
+\category{CR-number}{subcategory}{third-level}
+
+% general terms are not compulsory anymore, 
+% you may leave them out
+\terms
+term1, term2
+
+\keywords
+keyword1, keyword2
+
+\section{Introduction}
+
+A paragraph of text goes here.  Lots of text. More text.  Plenty of interesting
+text. 
+
+\section{This section has subsections}
+
+\subsection{New subsection}
+
+Sometimes you want to really call attention to a piece of text.  You
+can center it in the column like this:
+\begin{center}
+{\tt \_1008e614\_Vector\_p}
+\end{center}
+and people will really notice it.\\
+
+\noindent
+The noindent at the start of this paragraph makes it clear that it's
+a continuation of the preceding text, not a new para in its own right.
+
+Now this is an ingenious way to get a forced space.
+{\tt Real~$*$} and {\tt double~$*$} are equivalent. 
+
+Now here is another way to call attention to a line of code, but instead
+of centering it, we noindent and bold it.\\
+
+\noindent
+{\bf \tt size\_t : fread ptr size nobj stream } \\
+
+And here we have made an indented para like a definition tag (dt)
+in HTML.  You don't need a surrounding list macro pair.
+\begin{itemize}
+\item[]  {\tt fread} reads from {\tt stream} into the array {\tt ptr} at
+most {\tt nobj} objects of size {\tt size}.   {\tt fread} returns
+the number of objects read. 
+\end{itemize}
+This concludes the definitions tag.
+
+\section{This is another section}
+
+This is an example of unnumbered equation:
+\begin{displaymath}\sum_{i=0}^{\infty} x + 1\end{displaymath}
+followed by another numbered equation:
+\begin{equation}\sum_{i=0}^{\infty}x_i=\int_{0}^{\pi+2} f\end{equation}
+
+Now we're going to cite somebody~\cite{smith02}.  Watch for the cite tag.  The tilde character (\~{}) in the source means a non-breaking space.  This way, your reference will always be attached to the word that preceded it, instead of going to the next line.
+
+\section{Conclusions}
+
+Well, it's getting boring isn't it.  This is the last section
+where we wrap it up.
+
+
+\appendix
+\section{Appendix title}
+
+This is the text of the appendix, if you need one.
+
+\acks
+
+Acknowledgments, if needed.
+
+% We recommend abbrvnat bibliography style.
+
+\bibliographystyle{abbrvnat}
+
+% The bibliography should be embedded for final submission.
+
+\begin{thebibliography}{}
+\softraggedright
+
+\bibitem[Smith et~al.(2009)Smith, Jones]{smith02}
+P. Q. Smith, and X. Y. Jones. ...reference text...
+
+\end{thebibliography}
+
+
+\end{document}

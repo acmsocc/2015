@@ -1,0 +1,73 @@
+<!-- START 4 column pricing table(equal height) -->
+
+<div class="row pricing-table">
+  <div class="col-md-3">
+  <div class="plan">
+    <div class="plan-name">
+      <h4>Platinum</h4>
+      <span>$15,000</span>
+    </div>
+    <ul>
+      <li class="plan-feature">1 GB RAM</li>
+      <li class="plan-feature">25 GB HD</li>
+      <li class="plan-feature">2 GHz Speed</li>
+      <li class="plan-feature">Unlimited upload</li>
+      <li class="plan-feature">Unlimited download</li>
+      <li class="plan-feature">24hrs support</li>
+      <li class="plan-feature"><a href="#" class="btn btn-success btn-plan-select">Select</a></li>
+    </ul>
+  </div>
+  </div>
+  <div class="col-md-3">
+  <div class="plan">
+    <div class="plan-name">
+      <h4>Gold</h4>
+      <span>$10,000</span>
+    </div>
+    <ul>
+      <li class="plan-feature">5 GB RAM</li>
+      <li class="plan-feature">125 GB HD</li>
+      <li class="plan-feature">4 GHz Speed</li>
+      <li class="plan-feature">Unlimited upload</li>
+      <li class="plan-feature">Unlimited download</li>
+      <li class="plan-feature">24hrs support</li>
+      <li class="plan-feature"><a href="#" class="btn btn-success btn-plan-select">Select</a></li>
+    </ul>
+  </div>
+  </div>
+  <div class="col-md-3">
+  <div class="plan">
+    <div class="plan-name">
+      <h4>Silver</h4>
+      <span>$5,000</span>
+    </div>
+    <ul>
+      <li class="plan-feature">15 GB RAM</li>
+      <li class="plan-feature">250 GB HD</li>
+      <li class="plan-feature">6 GHz Speed</li>
+      <li class="plan-feature">Unlimited upload</li>
+      <li class="plan-feature">Unlimited download</li>
+      <li class="plan-feature">24hrs support</li>
+      <li class="plan-feature"><a href="#" class="btn btn-success btn-plan-select">Select</a></li>
+    </ul>
+  </div>
+  </div>
+  <div class="col-md-3">
+  <div class="plan">
+    <div class="plan-name">
+      <h4>Bronze</h4>
+      <span>$3,000</span>
+    </div>
+    <ul>
+      <li class="plan-feature">20 GB RAM</li>
+      <li class="plan-feature">500 GB HD</li>
+      <li class="plan-feature">10 GHz Speed</li>
+      <li class="plan-feature">Unlimited upload</li>
+      <li class="plan-feature">Unlimited download</li>
+      <li class="plan-feature">24hrs support</li>
+      <li class="plan-feature"><a href="#" class="btn btn-success btn-plan-select">Select</a></li>
+    </ul>
+  </div>
+  </div>
+</div>
+<!-- END 4 column pricing table(equal height) -->
