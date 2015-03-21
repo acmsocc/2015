@@ -12,32 +12,16 @@ layout: default
                     <section id="members">
                         <header><h1>Program Committee</h1></header>
                         <section id="program-chairs">
-                            <header><h2 class="no-divider">Program Chairs</h2></header>
-                            <div class="row">
-                              <div class="col-md-6">
-                                <div class="author-block course-speaker">
-                                  <a href="http://www.cs.washington.edu/people/faculty/magda"><figure class="author-picture"><img src="assets/img/discussion-author-02.jpg" alt=""></figure></a>
-                                  <article class="paragraph-wrapper">
-                                    <div class="inner">
-                                        <header><a href="http://www.cs.washington.edu/people/faculty/magda">Magdalena Balazinska</a></header>
-                                        <figure>University of Washington</figure>
-                                    </div>
-                                  </article>
-                                </div><!-- /.author -->
-                              </div>
+                          <header><h2 class="no-divider">Program Chairs</h2></header>
+                          <div class="row">
+                            <div class="col-md-6">
+                              {% include author-block.html link="http://www.cs.washington.edu/people/faculty/magda" name="Magdalena Balazinska" org="University of Washington" %}
+                            </div>
 
-                              <div class="col-md-6">
-                                <div class="author-block course-speaker">
-                                  <a href="https://www.cs.princeton.edu/~mfreed/"><figure class="author-picture"><img src="assets/img/discussion-author-03.jpg" alt=""></figure></a>
-                                  <article class="paragraph-wrapper">
-                                    <div class="inner">
-                                        <header><a href="https://www.cs.princeton.edu/~mfreed/">Michael Freedman</a></header>
-                                        <figure>Princeton University</figure>
-                                    </div>
-                                  </article>
-                                </div><!-- /.author -->
-                              </div>
-                            </div> <!-- end row -->
+                            <div class="col-md-6">
+                              {% include author-block.html link="https://www.cs.princeton.edu/~mfreed/" name="Michael Freedman" org="Princeton University" %}
+                            </div>
+                          </div> <!-- end row -->
                         </section><!-- /#program-chairs -->
                     </section>
                 </div><!-- /#page-main -->
