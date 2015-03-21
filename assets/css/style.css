@@ -4416,3 +4416,10 @@ label.error:before {
 ul.submission-list li {
   padding:0px;
 }
+
+.no-underline {
+  background-color: transparent !important;
+}
+.no-underline:after {
+  background-color: transparent !important;
+}
