@@ -111,8 +111,8 @@ $(document).ready(function($) {
         autoPlay: true,
         stopOnHover: true,
         navigation: true,
-        navigationText : false,
-        responsiveBaseWidth: ".image-carousel-slide"
+        navigationText : false
+        responsiveBaseWidth: ".image-carousel"
         //responsiveBaseWidth: ".author"
     });
 
