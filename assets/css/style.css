@@ -4450,6 +4450,8 @@ ul.topics-list li:before {
 
 input.gsc-input {
   min-height: 0;
+  font-size:16px;
+  line-height: normal;
 }
 
 .socc-search {
