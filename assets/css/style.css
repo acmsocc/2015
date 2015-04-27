@@ -4438,3 +4438,21 @@ ul.topics-list li:before {
 .no-underline:after {
   background-color: transparent !important;
 }
+
+.reset-box-sizing,
+.reset-box-sizing *,
+.reset-box-sizing *:before,
+.reset-box-sizing *:after {
+  -webkit-box-sizing: content-box;
+     -moz-box-sizing: content-box;
+          box-sizing: content-box;
+}
+
+input.gsc-input {
+  min-height: 0;
+}
+
+.socc-search {
+  color: black;
+  width:300px;
+}
