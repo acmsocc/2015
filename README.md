@@ -54,7 +54,7 @@ After these only the pages will show up in the website
 
 ### Step 8: For previewing the site
 
-If you would like to preview the site before committing, you need to install Jekyll. You can follow the instructions here 
+If you would like to preview the site before committing, you need to install Jekyll. You can follow the instructions at http://jekyllrb.com/  
 
 > gem install jekyll
 
@@ -66,6 +66,6 @@ This will not terminate. In another terminal window, you can edit or change the 
 
 In order to preview the site, open up a browser and in it open the url 
 
-file://<absolute path of directory where the repo is>/_site/index.html
+file://<absolute-path-of-directory-where-the-repo-is>/_site/index.html
 
 All you have to is keep refreshing to get the new site previewed before you do the commit.
