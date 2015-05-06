@@ -1,6 +1,6 @@
-# SoCC 2015
+# SoCC 2015 Website
 
-Here are the instruction for making changes to website
+## Instructions for making changes to website
 
 ### Step 1: Github account
 
