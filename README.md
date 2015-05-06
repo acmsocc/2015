@@ -1,20 +1,20 @@
-# 2015
+# SoCC 2015
 
 Here are the instruction for making changes to website
 
-Step 1: Github account
+## Step 1: Github account
 
 If you don't have a github account, please create one at https://github.com
 
-Step 2: Access to repository
+## Step 2: Access to repository
 
 If you are new to github or already have an account, you need permission to work in the repository. Please send me your github username and I will be happy to provide permissions.
 
-Step 3: Install Git in your laptop/computer
+## Step 3: Install Git in your laptop/computer
 
 If you don't have git installed in your computer, please follow the instructions here. 
 
-Step 4: Checkout repository
+## Step 4: Checkout repository
 
 From your unix terminal window use the following command to check out the repository
 
@@ -25,11 +25,11 @@ For checking out the branch, use the following
 
 git checkout gh-pages
 
-Step 5: Edit the repository
+## Step 5: Edit the repository
 
 You can edit the pages or add new pages as you like
 
-Step 6: Committing to the repository
+## Step 6: Committing to the repository
 
 In order to know the list of newly added files or the modified files do 
 
@@ -43,7 +43,7 @@ You should use git commit to push the changes. Note it will commit to the local 
 
 git commit -m "Your Message"
 
-Step 7: Push the repository 
+## Step 7: Push the repository 
 
 You can push the changes to main branch by doing the following
 
@@ -51,7 +51,7 @@ git push
 
 After these only the pages will show up in the website
 
-Step 8: For previewing the site
+## Step 8: For previewing the site
 
 If you would like to preview the site before committing, you need to install Jekyll. You can follow the instructions here 
 
