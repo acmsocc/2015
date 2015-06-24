@@ -1,0 +1,125 @@
+---
+layout: default
+---
+
+{% include slider-cf-camera-ready-instructions.html %}
+
+<!-- Content -->
+<div class="block">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-3">
+        <section class="events small" id="events-small">
+          <header>
+            <h2>Dates</h2>
+          </header>
+          <div class="section-content">
+            <article class="event nearest">
+              <figure class="date">
+                <div class="month">july</div>
+                <div class="day">20</div>
+              </figure>
+              <aside>
+                <header>
+                  Deadline for camera ready copy
+                </header>
+              </aside>
+            </article><!-- /article -->
+          </div><!-- /.section-content -->
+        </section><!-- /.events-small -->
+
+        <section class="events small" id="events-small">
+          <header>
+            <h2>Links</h2>
+          </header>
+          <div class="section-content">
+            <ul class="list-links">
+              <li><h4><a href="#guidelines">Camera-ready preparation guidelines</a></h4></li>
+              <li><h4><a href="#submit">Submission site</a></h4></li>
+			  <li><h4><a href="papers.html">Call for papers</a></h4></li>
+              <li><h4><a href="posters.html">Call for posters</a></h4></li>
+              <li><h4><a href="program-committee.html">Program committee</a></h4></li>
+            </ul>
+          </div><!-- /.section-content -->
+        </section><!-- /.events-small -->
+      </div><!-- /.col-md-3 -->
+
+      <div class="col-md-6">
+        <section id="main-content">
+          <header>
+            <h1>Camera-ready preparation and copyright assignment</h1>
+          </header>
+          <div class="section-content">
+            <p>
+              These instructions are for the authors of accepted papers.
+			  <br/><br/>
+			  Time is short!  Please follow these instructions in a timely and precise manner.  Any delay or imprecision may result in your paper being excluded from the conference proceedings.
+            </p>
+			<a id="guidelines"><h2>Camera-ready preparation guidelines</h2></a>
+			<p>
+			<h4>What we need from you right away:</h4>
+			<p>
+			<ol>
+			<li><p>An email from ACM will invite the contact author to <i>complete the ACM copyright form online</i>. 
+			Please do this promptly, as this is the blocking step for the rest of the processing - for example, it provides the DOI, rights management text and bibliographic strip you need to embed in your paper. 
+			The permission and DOI info can be found on the 2nd page of the completed copyright document. 
+			If you don't receive the invitation email by July 14th, please let the publication and proceedings chair (Sumita Barahmand <i>sumita [dot] barahmand [at] gmail [dot] com</i>) know. 
+			<br/><br/>
+			As it's an automatic email, please also check your spam folder or make sure that you set email SPAM settings to allow emails from "rightsreview@acm.org".
+			
+			<li><p>Please <i>reach out to your shepherd</i> immediately and let them know how you will address the reviewers inputs. All papers will be shepherded; <i>you need their sign-off on your final version before it can be accepted</i>.  
+			Your shepherd is acting for the program committee; they have the authority to withhold approval.
+			
+			<li><p>At least one of the authors <i>must register for the conference</i> to present the paper, so take advantage of the early registration discounts.
+			</ol>
+			</p>
+			<br/>
+			<h4>What we need from you by <b>July 20th:</b></h4>
+			<p>
+			Your final ("camera-ready") PDF file. Here are some tips on preparing it:
+            <ul>
+			<li><p>It MUST be formatted using this <a href="assets/socc15.cls" target="_blank">style file</a>. An example latex file using the style can be downloaded from <a href="assets/template.tex" target="_blank">here</a>. 
+			Please keep <code>\usepackage{mathptmx}</code> to get the correct math mode font.
+			This style file is a variant of the ACM style that provides a consistent look and feel for our proceedings.
+			Do not use your own style file.  Do not use one of the "standard" ACM ones.
+
+			<li><p>The PDF MUST have the correct rights management statement and bibliographic strip on the bottom of the first page left column. 
+			You will receive these details after completing your copyright form, after which you MAY need to replace the one in the template with the one from ACM.
+
+			<li><p>The PDF file should only use Type 1 fonts (scalable), not Type 3 (bit-mapped), and all the fonts must be embedded within the PDF.  
+			ACM has documentation on how to <a href="http://www.acm.org/publications/WORD%20to%20PDF%20instructions.txt">embed fonts</a> correctly. It refers to the distiller settings file that can be found here: <a href="http://www.acm.org/publications/ACM.joboptions">ACM.joboptions</a>.
+			
+			<li><p>Papers must be formatted using a 10pt font on 12pt leading for letter-sized (8.5" by 11") paper. The text blocks must follow ACM guidelines: double-column, with each column 9.25" by 3.33"; leave a 0.33" space between columns.
+
+			<li><p>Do <b>not</b> include page numbers.
+
+			<li><p>Name your file according to this rule: <i>paperID-firstauthorlastname.pdf</i> 
+
+			<li><p>You should apply ACM Computing Classification categories and terms. For the classification of your paper follow the scheme at: http://www.acm.org/about/class/1998
+					
+			<li><p>The page limits provided <a href="papers.html">here</a> still stand and are strict and final.
+			
+			<li><p>Remove the paper "type" line which you added when submitting the paper.
+
+			<li><p>Please use the paper-submission site to upload your final camera-ready copy.
+			If you have any other question regarding the proceedings, please contact the publication and proceedings chair (Sumita Barahmand <i>sumita [dot] barahmand [at] gmail [dot] com</i>) or the PC chairs immediately.  Don't wait!
+			</ul>
+			</p>
+            <a id="submit"><h2>Submission site</h2></a>
+            <p>
+              When you are ready to submit, please go to
+              <a href="http://socc15.cs.princeton.edu" target="_blank">http://socc15.cs.princeton.edu</a>.
+            </p>
+
+          </div><!-- /.section-content -->
+        </section><!-- /.main-content -->
+      </div><!-- /.col-md-6 -->
+
+      <div class="col-md-3">
+        {% include latest-news.html %}
+      </div><!-- /.col-md-3 -->
+
+    </div><!-- /.row -->
+  </div><!-- /.container -->
+</div>
+<!-- end Content -->
