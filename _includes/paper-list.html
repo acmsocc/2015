@@ -1,0 +1,4 @@
+{% for paper in site.data.papers[include.category] %}
+  {% assign authors = paper.authors | join: ', ' %}
+  {% include paper-block.html title=paper.title authors=authors %}
+{% endfor %}

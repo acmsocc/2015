@@ -1,0 +1,227 @@
+research:
+- authors:
+  - Jinliang Wei (Carnegie Mellon University)
+  - Wei Dai (Carnegie Mellon University)
+  - Aurick Qiao (Carnegie Mellon University)
+  - Henggang Cui (Carnegie Mellon University)
+  - Qirong Ho (Institute for Infocomm Research, A*STAR)
+  - Gregory R Ganger (Carnegie Mellon University)
+  - Phillip B. Gibbons (Intel Labs)
+  - Garth A. Gibson (Carnegie Mellon University)
+  - Eric P. Xing (Carnegie Mellon University)
+  title: Managed Communication and Consistency for Fast Data-Parallel Iterative Analytics
+- authors:
+  - Christina Delimitrou (Stanford University)
+  - Daniel Sanchez (MIT)
+  - Christos Kozyrakis (Stanford University)
+  title: 'Tarcil: Reconciling Scheduling Speed and Quality in Large Shared Clusters'
+- authors:
+  - Chien-Chun Hung (University of Southern California)
+  - Leana Golubchik (University of Southern California)
+  - Minlan Yu (University of Southern California)
+  title: Scheduling Jobs Across Geo-Distributed Datacenters
+- authors:
+  - Michael Conley (UCSD)
+  - Amin Vahdat (UCSD, Google)
+  - Porter George (UCSD)
+  title: Achieving Cost-efficient, Data-intensive Computing in the Cloud
+- authors:
+  - Tayler H. Hetherington (The University of British Columbia)
+  - Mike O'Connor (NVIDIA / UT-Austin)
+  - Tor M. Aamodt (The University of British Columbia)
+  title: 'MemcachedGPU: Scaling-up Scale-out Key-value Stores'
+- authors:
+  - Bailu Ding (Cornell University)
+  - Lucja Kot (Cornell University)
+  - Alan Demers (Cornell University)
+  - Johannes Gehrke (Microsoft Corporation, Cornell University)
+  title: 'Centiman: Elastic, High Performance Optimistic Concurrency Control by Watermarking'
+- authors:
+  - Senthil Nathan (IIT Bombay)
+  - Umesh Bellur (IIT Bombay)
+  - Purushottam Kulkarni (IIT Bombay)
+  title: Towards a Comprehensive Performance Model of Virtual Machine Live Migration
+- authors:
+  - Henggang Cui (Carnegie Mellon University)
+  - Kimberly Keeton (Hewlett-Packard Laboratories)
+  - Indrajit Roy (Hewlett-Packard Laboratories)
+  - Krishnamurthy Viswanathan (Hewlett-Packard Laboratories)
+  - Gregory R. Ganger (Carnegie Mellon University)
+  title: Using Data Transformations for Low-latency Time Series Analysis
+- authors:
+  - Lianghong Xu (Carnegie Mellon University)
+  - Andrew Pavlo (Carnegie Mellon University)
+  - Sudipta Sengupta (Microsoft Research)
+  - Jin Li (Microsoft Research)
+  - Gregory R. Ganger (Carnegie Mellon University)
+  title: Reducing Replication Bandwidth for Distributed Document Databases
+- authors:
+  - Jaemyung Kim (University of Waterloo)
+  - Kenneth Salem (University of Waterloo)
+  - Khuzaima Daudjee (University of Waterloo)
+  - Ashraf Aboulnaga (Qatar Computing Research Institute)
+  - Xin Pan (University of Waterloo)
+  title: Database High Availability Using SHADOW Systems
+- authors:
+  - Hiranya Jayathilaka (UC Santa Barbara)
+  - Chandra Krintz (UC Santa Barbara)
+  - Rich Wolski (UC Santa Barbara)
+  title: Response Time Service Level Agreements for Cloud-hosted Web Applications
+- authors:
+  - Emilio Coppa (Sapienza University of Rome)
+  - Irene Finocchi (Sapienza University of Rome)
+  title: On data skewness, stragglers, and MapReduce progress indicators
+- authors:
+  - Kai Ren (Carnegie Mellon University)
+  - Qing Zheng (Carnegie Mellon University)
+  - Garth Gibson (Carnegie Mellon University)
+  - Lin Xiao (Carnegie Mellon University)
+  title: 'ShardFS vs. IndexFS: Replication vs. Caching Strategies for Distributed
+    Metadata Management in Cloud Storage Systems'
+- authors:
+  - Willis Lang (Microsoft)
+  - David J. DeWitt (Microsoft)
+  - Nigel Ellis (Microsoft)
+  title: Microsoft Azure SQL Database Telemetry
+- authors:
+  - Sadeka Islam (University of New South Wales)
+  - Srikumar Venugopal (IBM Research, Ireland)
+  - Anna Liu (National ICT Australia)
+  title: Evaluating the Impact of Fine-scale Variability on Cloud Elasticity
+- authors:
+  - Thomas Heinze (SAP SE)
+  - Lars Roediger (SAP SE)
+  - Andreas Meister (University of Magdeburg)
+  - Yuanzhen Ji (SAP SE)
+  - Zbigniew Jerzak (SAP SE)
+  - Christof Fetzer (TU Dresden)
+  title: Online Parameter Optimization for Elastic Data Stream Processing
+- authors:
+  - George Prekas (EPFL)
+  - Mia Primorac (EPFL)
+  - Adam Belay (Stanford)
+  - Christos Kozyrakis (Stanford)
+  - Edouard Bugnion (EPFL)
+  title: Energy Proportionality and Workload Consolidation for Latency-critical Applications
+- authors:
+  - Ming Wu (Microsoft Research)
+  - Fan Yang (Microsoft Research)
+  - Jilong Xue (Peking University)
+  - Wencong Xiao (Beihang University)
+  - Youshan Miao (University of Science and Technology of China)
+  - Lan Wei (Institute of Software, Chinese Academy of Sciences)
+  - Haoxiang Lin (Microsoft Research)
+  - Yafei Dai (Peking University)
+  - Lidong Zhou (Microsoft Research)
+  title: 'GraM: Scaling Graph Computation to the Trillions'
+- authors:
+  - Quanlu Zhang (Peking University)
+  - Yafei Dai (Peking University)
+  - Lintao Zhang (Microsoft Research Asia)
+  title: 'DSwitch: A Dual Mode Direct and Network Attached Disk'
+- authors:
+  - Supreeth Subramanya (University of Massachusetts Amherst)
+  - Tian Guo (University of Massachusetts Amherst)
+  - Prateek Sharma (University of Massachusetts Amherst)
+  - David Irwin (University of Massachusetts Amherst)
+  - Prashant Shenoy (University of Massachusetts Amherst)
+  title: 'SpotOn: A Batch Computing Service for the Spot Market'
+- authors:
+  - David Zats (UC Berkeley & Google)
+  - Anand Padmanabha Iyer (UC Berkeley)
+  - Ganesh Ananthanarayanan (Microsoft Research)
+  - Rachit Agarwal (UC Berkeley)
+  - Randy Katz (UC Berkeley)
+  - Ion Stoica (UC Berkeley)
+  - Amin Vahdat (Google)
+  title: 'FastLane: Making Short Flows Shorter with Agile Drop Notification'
+- authors:
+  - Ioan Stefanovici (University of Toronto)
+  - Eno Thereska (Microsoft Research)
+  - Greg O'Shea (Microsoft Research)
+  - Bianca Schroeder (University of Toronto)
+  - Hitesh Ballani (Microsoft Research)
+  - Thomas Karagiannis (Microsoft Research)
+  - Antony Rowstron (Microsoft Research)
+  - Tom Talpey (Microsoft)
+  title: 'Software-Defined Caching: Managing Caches in Multi-Tenant Data Centers'
+- authors:
+  - Mayank Pundir (University of Illinois at Urbana-Champaign)
+  - Luke M. Leslie (University of Illinois at Urbana-Champaign)
+  - Indranil Gupta (University of Illinois at Urbana-Champaign)
+  - Roy H. Campbell (University of Illinois at Urbana-Champaign)
+  title: 'Zorro: Zero-Cost Reactive Failure Recovery in Distributed Graph Processing'
+- authors:
+  - Richard Li (University of Utah)
+  - Dallin Abendroth (University of Utah)
+  - Xing Lin (University of Utah)
+  - Yuankai Guo (University of Utah)
+  - Hyun-wook Baek (University of Utah)
+  - Eric Eide (University of Utah)
+  - Robert Ricci (University of Utah)
+  - Jacobus Van der Merwe (University of Utah)
+  title: 'POTASSIUM: Penetration Testing as a Service'
+- authors:
+  - Azza Abouzied (New York University Abu Dhabi)
+  - Jay Chen (New York University Abu Dhabi)
+  title: Harnessing Data Loss with Forgetful Data Structures
+- authors:
+  - Jian Huang (Georgia Tech)
+  - Xuechen Zhang (University of Oregon)
+  - Karsten Schwan (Georgia Tech)
+  title: 'Understanding Issue Correlations: A Case Study of Hadoop Systems'
+- authors:
+  - Ioannis Manousakis (Rutgers University)
+  - Inigo Goiri (Microsoft Research)
+  - Sriram Sankar (GoDaddy)
+  - Thu D. Nguyen (Rutgers University)
+  - Ricardo Bianchini (Microsoft Research)
+  title: 'CoolProvision: Underprovisioning Datacenter Cooling'
+- authors:
+  - Kirill Bogdanov (KTH Royal Institute of Technology)
+  - !!python/str "Miguel Pe\xF3n-Quir\xF3s (Institute IMDEA Networks)"
+  - Gerald Q. Maguire Jr. (KTH Royal Institute of Technology)
+  - Dejan Kostic (KTH Royal Institute of Technology)
+  title: The Nearest Replica Can Be Farther Than You Think
+- authors:
+  - Ding Li (University of Southern California)
+  - James Mickens (Microsoft Research)
+  - Suman Nath (Microsoft Research)
+  - Lenin Ravindranath (Microsoft Research)
+  title: 'Domino: Understanding Wide-Area, Asynchronous Event Chains in Web Applications'
+- authors:
+  - Vinayak Borkar (X15 Software)
+  - Yingyi Bu (University of California, Irvine)
+  - E. Preston Carman, Jr. (University of California, Riverside)
+  - Nicola Onose (X15 Software)
+  - Till Westmann (Oracle)
+  - Pouria Pirzadeh (University of California, Irvine)
+  - Michael J. Carey (University of California, Irvine)
+  - Vassilis J. Tsotras (University of California, Riverside)
+  title: 'Algebricks: A Data Model-Agnostic Compiler Backend for Big Data Languages'
+- authors:
+  - Sergey Grizan (Siberian Federal University)
+  - David Chu (Microsoft Research)
+  - Alec Wolman (Microsoft Research)
+  - Roger Wattenhofer (ETH Zurich)
+  title: 'dJay: Enabling High-density Multi-tenancy for Cloud Gaming Servers with
+    Dynamic Cost-Benefit GPU Load Balancing'
+- authors:
+  - Hui Lu (Department of Computer Science, Purdue University)
+  - Brendan Saltaformaggio (Department of Computer Science, Purdue University)
+  - Ramana Kompella (Google Inc.)
+  - Dongyan Xu (Department of Computer Science, Purdue University)
+  title: 'vFair: Latency-Aware Fair Storage Scheduling via Per-IO Cost-Based Differentiation'
+- authors:
+  - Feilong Liu (The Ohio State University)
+  - Spyros Blanas (The Ohio State University)
+  title: Forecasting the cost of processing multi-join queries via hashing for main-memory
+    databases
+- authors:
+  - Evan R. Sparks (UC Berkeley)
+  - Ameet Talwalkar (UCLA)
+  - Daniel Haas (UC Berkeley)
+  - Michael J. Franklin (UC Berkeley)
+  - Michael I. Jordan (UC Berkeley)
+  - Tim Kraska (Brown University)
+  title: Automating Model Search for Large Scale Machine Learning
