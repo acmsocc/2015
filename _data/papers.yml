@@ -72,10 +72,10 @@ research:
   - Irene Finocchi (Sapienza University of Rome)
   title: On data skewness, stragglers, and MapReduce progress indicators
 - authors:
+  - Lin Xiao (Carnegie Mellon University)
   - Kai Ren (Carnegie Mellon University)
   - Qing Zheng (Carnegie Mellon University)
   - Garth Gibson (Carnegie Mellon University)
-  - Lin Xiao (Carnegie Mellon University)
   title: 'ShardFS vs. IndexFS: Replication vs. Caching Strategies for Distributed
     Metadata Management in Cloud Storage Systems'
 - authors:
@@ -185,7 +185,7 @@ research:
   title: The Nearest Replica Can Be Farther Than You Think
 - authors:
   - Ding Li (University of Southern California)
-  - James Mickens (Microsoft Research)
+  - James Mickens (Harvard University)
   - Suman Nath (Microsoft Research)
   - Lenin Ravindranath (Microsoft Research)
   title: 'Domino: Understanding Wide-Area, Asynchronous Event Chains in Web Applications'
