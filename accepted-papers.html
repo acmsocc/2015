@@ -2,42 +2,20 @@
 layout: default
 ---
 
-{% include slider-sponsors.html %}
+
 
 <!-- Content -->
 <div class="block">
   <div class="container">
     <div class="row">
 
-      <div class="col-md-3">
-        <section class="events small" id="events-small">
-          <header>
-            <h2>Links</h2>
-          </header>
-          <div class="section-content">
-            <ul class="list-links">
-              <li><h4><a href="#reserach">Research papers</a></h4></li>
-              <li><h4><a href="#industry">Industry papers</a></h4></li>
-              <li><h4><a href="#vision">Vision papers</a></h4></li>
-            </ul>
-          </div><!-- /.section-content -->
-        </section><!-- /.events-small -->
-      </div><!-- /.col-md-3 -->
-
-      <div class="col-md-6">
+      <div class="col-md-9">
         <section id="main-content">
           <div class="section-content">
             <header><h2>Accepted papers</h2></header>
 
-            <a id="research"><h2>Research papers</h2></a>
+            <!-- <a id="research"><h2>Research papers</h2></a> -->
             {% include paper-list.html category="research" %}
-
-            <a id="industry"><h2>Industry papers</h2></a>
-            {% include paper-list.html category="industry" %}
-
-            <a id="vision"><h2>Vision papers</h2></a>
-            {% include paper-list.html category="vision" %}
-
 
           </div><!-- /.section-content -->
         </section><!-- /.main-content -->
