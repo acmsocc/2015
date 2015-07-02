@@ -169,7 +169,7 @@ research:
   - Jian Huang (Georgia Tech)
   - Xuechen Zhang (University of Oregon)
   - Karsten Schwan (Georgia Tech)
-  title: 'Understanding Issue Correlations: A Case Study of Hadoop Systems'
+  title: 'Understanding Issue Correlations: A Case Study of the Hadoop System'
 - authors:
   - Ioannis Manousakis (Rutgers University)
   - Inigo Goiri (Microsoft Research)
@@ -179,7 +179,7 @@ research:
   title: 'CoolProvision: Underprovisioning Datacenter Cooling'
 - authors:
   - Kirill Bogdanov (KTH Royal Institute of Technology)
-  - !!python/str "Miguel Pe\xF3n-Quir\xF3s (Institute IMDEA Networks)"
+  - !!python/str "Miguel Pe\xF3n-Quir\xF3s (University Complutense of Madrid)"
   - Gerald Q. Maguire Jr. (KTH Royal Institute of Technology)
   - Dejan Kostic (KTH Royal Institute of Technology)
   title: The Nearest Replica Can Be Farther Than You Think
