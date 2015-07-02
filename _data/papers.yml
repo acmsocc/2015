@@ -209,7 +209,7 @@ research:
 - authors:
   - Hui Lu (Department of Computer Science, Purdue University)
   - Brendan Saltaformaggio (Department of Computer Science, Purdue University)
-  - Ramana Kompella (Google Inc.)
+  - Ramana Kompella (Google Inc. and Purdue University)
   - Dongyan Xu (Department of Computer Science, Purdue University)
   title: 'vFair: Latency-Aware Fair Storage Scheduling via Per-IO Cost-Based Differentiation'
 - authors:
