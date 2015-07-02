@@ -85,9 +85,9 @@ research:
   title: Microsoft Azure SQL Database Telemetry
 - authors:
   - Sadeka Islam (University of New South Wales)
-  - Srikumar Venugopal (IBM Research, Ireland)
+  - Srikumar Venugopal (IBM Research, Ireland and University of New South Wales)
   - Anna Liu (National ICT Australia)
-  title: Evaluating the Impact of Fine-scale Variability on Cloud Elasticity
+  title: Evaluating the Impact of Fine-scale Burstiness on Cloud Elasticity
 - authors:
   - Thomas Heinze (SAP SE)
   - Lars Roediger (SAP SE)
