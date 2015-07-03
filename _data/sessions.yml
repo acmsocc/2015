@@ -1,0 +1,99 @@
+day1:
+- start: 8:30 AM
+  end: 8:40 AM
+  title: General Chair's Welcome
+  talks: []
+- start: 8:40 AM
+  end: 9:30 AM
+  title: Keynote 1
+  talks: []
+- start: 9:30 AM
+  end: 10:30 AM
+  title: Testing
+  talks:
+  - 'Understanding Issue Correlations: A Case Study of Hadoop Systems'
+  - The Nearest Replica Can Be Farther Than You Think
+  - 'POTASSIUM: Penetration Testing as a Service'
+- start: 10:30 AM
+  end: 11:00 AM
+  title: Break
+  talks: []
+- start: 11:00 AM
+  end: 12:20 PM
+  title: New Architectures
+  talks:
+  - 'MemcachedGPU: Scaling-up Scale-out Key-value Stores'
+  - 'dJay: Enabling High-density Multi-tenancy for Cloud Gaming Servers with Dynamic Cost-Benefit GPU Load Balancing'
+  - 'DSwitch: A Dual Mode Direct and Network Attached Disk'
+  - 'FastLane: Making Short Flows Shorter with Agile Drop Notification'
+- start: 12:20 PM
+  end: 1:30 PM
+  title: Lunch
+  talks: []
+- start: 1:30 PM
+  end: 3:00 PM
+  title: Posters 1
+  talks: []
+- start: 3:00 PM
+  end: 3:30 PM
+  title: Break
+  talks: []
+- start: 3:30 PM
+  end: 5:10 PM
+  title: Scheduling and Performance modeling
+  talks:
+  - test
+day2:
+- start: 8:30 AM
+  end: 8:40 AM
+  title: PC Chair's Report
+  talks: []
+- start: 8:40 AM
+  end: 9:30 AM
+  title: Keynote 2
+  talks: []
+- start: 9:30 AM
+  end: 10:10 AM
+  title: Short Papers
+  talks:
+  - Harnessing Data Loss with Forgetful Data Structures
+  - 'Software-Defined Caching: Managing Caches in Multi-Tenant Data Centers'
+  - 'Domino: Understanding Wide-Area, Asynchronous Event Chains in Web Applications'
+  - Microsoft Azure SQL Database Telemetry
+- start: 10:10 AM
+  end: 10:40 AM
+  title: Break
+  talks: []
+- start: 10:40 AM
+  end: 12:00 PM
+  title: High Availability and Replication
+  talks:
+  - 'Zorro: Zero-Cost Reactive Failure Recovery in Distributed Graph Processing'
+  - Database High Availability Using SHADOW Systems
+  - Reducing Replication Bandwidth for Distributed Document Databases
+  - 'ShardFS vs. IndexFS: Replication vs. Caching Strategies for Distributed Metadata Management in Cloud Storage Systems'
+- start: 12:00 PM
+  end: 1:30 PM
+  title: Lunch
+  talks: []
+- start: 1:30 PM
+  end: 3:00 PM
+  title: Posters 2
+  talks: []
+- start: 3:00 PM
+  end: 3:30 PM
+  title: Break
+  talks: []
+- start: 3:30 PM
+  end: 4:50 PM
+  title: Elasticity and Migration
+  talks:
+  - Evaluating the Impact of Fine-scale Variability on Cloud Elasticity
+  - 'Centiman: Elastic, High Performance Optimistic Concurrency Control by Watermarking'
+  - Online Parameter Optimization for Elastic Data Stream Processing
+  - Towards a Comprehensive Performance Model of Virtual Machine Live Migration
+- start: 7:00 PM
+  end: 9:00 PM
+  title: Banquet
+  talks: []
+day3: []
