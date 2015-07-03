@@ -42,7 +42,11 @@ day1:
   end: 5:10 PM
   title: Scheduling and Performance modeling
   talks:
-  - test
+  - 'Tarcil: Reconciling Scheduling Speed and Quality in Large Shared Clusters'
+  - Scheduling Jobs Across Geo-Distributed Datacenters
+  - 'vFair: Latency-Aware Fair Storage Scheduling via Per-IO Cost-Based Differentiation'
+  - On data skewness, stragglers, and MapReduce progress indicators
+  - Forecasting the cost of processing multi-join queries via hashing for main-memory databases
 day2:
 - start: 8:30 AM
   end: 8:40 AM
@@ -96,4 +100,26 @@ day2:
   end: 9:00 PM
   title: Banquet
   talks: []
-day3: []
+day3:
+- start: 8:30 AM
+  end: 10:10 AM
+  title: Cost and Performance Trade-offs
+  talks:
+  - Achieving Cost-efficient, Data-intensive Computing in the Cloud
+  - Response Time Service Level Agreements for Cloud-hosted Web Applications
+  - 'SpotOn: A Batch Computing Service for the Spot Market'
+  - Energy Proportionality and Workload Consolidation for Latency-critical Applications
+  - 'CoolProvision: Underprovisioning Datacenter Cooling'
+- start: 10:10 AM
+  end: 10:40 AM
+  title: Break
+  talks: []
+- start: 10:40 AM
+  end: 12:20 PM
+  title: Complex Analytics
+  talks:
+  - Automating Model Search for Large Scale Machine Learning
+  - Managed Communication and Consistency for Fast Data-Parallel Iterative Analytics
+  - Using Data Transformations for Low-latency Time Series Analysis
+  - 'GraM: Scaling Graph Computation to the Trillions'
+  - 'Algebricks: A Data Model-Agnostic Compiler Backend for Big Data Languages'
