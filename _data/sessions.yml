@@ -5,7 +5,7 @@ day1:
   talks: []
 - start: 8:40 AM
   end: 9:30 AM
-  title: Keynote 1
+  title: 'Keynote 1: Samuel Madden, MIT'
   talks: []
 - start: 9:30 AM
   end: 10:30 AM
@@ -54,7 +54,7 @@ day2:
   talks: []
 - start: 8:40 AM
   end: 9:30 AM
-  title: Keynote 2
+  title: 'Keynote 2: Eric Brewer, Google/UC Berkeley'
   talks: []
 - start: 9:30 AM
   end: 10:10 AM
