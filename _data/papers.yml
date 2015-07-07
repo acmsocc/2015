@@ -3,9 +3,9 @@ research:
   - Jinliang Wei (Carnegie Mellon University)
   - Wei Dai (Carnegie Mellon University)
   - Aurick Qiao (Carnegie Mellon University)
-  - Henggang Cui (Carnegie Mellon University)
   - Qirong Ho (Institute for Infocomm Research, A*STAR)
-  - Gregory R Ganger (Carnegie Mellon University)
+  - Henggang Cui (Carnegie Mellon University)
+  - Gregory R. Ganger (Carnegie Mellon University)
   - Phillip B. Gibbons (Intel Labs)
   - Garth A. Gibson (Carnegie Mellon University)
   - Eric P. Xing (Carnegie Mellon University)
@@ -19,11 +19,11 @@ research:
   - Chien-Chun Hung (University of Southern California)
   - Leana Golubchik (University of Southern California)
   - Minlan Yu (University of Southern California)
-  title: Scheduling Jobs Across Geo-Distributed Datacenters
+  title: Scheduling Jobs Across Geo-distributed Datacenters
 - authors:
   - Michael Conley (UCSD)
   - Amin Vahdat (UCSD, Google)
-  - Porter George (UCSD)
+  - George Porter (UCSD)
   title: Achieving Cost-efficient, Data-intensive Computing in the Cloud
 - authors:
   - Tayler H. Hetherington (The University of British Columbia)
@@ -75,7 +75,7 @@ research:
   - Lin Xiao (Carnegie Mellon University)
   - Kai Ren (Carnegie Mellon University)
   - Qing Zheng (Carnegie Mellon University)
-  - Garth Gibson (Carnegie Mellon University)
+  - Garth A. Gibson (Carnegie Mellon University)
   title: 'ShardFS vs. IndexFS: Replication vs. Caching Strategies for Distributed
     Metadata Management in Cloud Storage Systems'
 - authors:
@@ -85,9 +85,9 @@ research:
   title: Microsoft Azure SQL Database Telemetry
 - authors:
   - Sadeka Islam (University of New South Wales)
-  - Srikumar Venugopal (IBM Research, Ireland)
+  - Srikumar Venugopal (IBM Research, Ireland and University of New South Wales)
   - Anna Liu (National ICT Australia)
-  title: Evaluating the Impact of Fine-scale Variability on Cloud Elasticity
+  title: Evaluating the Impact of Fine-scale Burstiness on Cloud Elasticity
 - authors:
   - Thomas Heinze (SAP SE)
   - Lars Roediger (SAP SE)
@@ -169,17 +169,17 @@ research:
   - Jian Huang (Georgia Tech)
   - Xuechen Zhang (University of Oregon)
   - Karsten Schwan (Georgia Tech)
-  title: 'Understanding Issue Correlations: A Case Study of Hadoop Systems'
+  title: 'Understanding Issue Correlations: A Case Study of the Hadoop System'
 - authors:
   - Ioannis Manousakis (Rutgers University)
   - Inigo Goiri (Microsoft Research)
   - Sriram Sankar (GoDaddy)
   - Thu D. Nguyen (Rutgers University)
-  - Ricardo Bianchini (Microsoft Research)
+  - Ricardo Bianchini (Rutgers University and Microsoft Research)
   title: 'CoolProvision: Underprovisioning Datacenter Cooling'
 - authors:
   - Kirill Bogdanov (KTH Royal Institute of Technology)
-  - !!python/str "Miguel Pe\xF3n-Quir\xF3s (Institute IMDEA Networks)"
+  - !!python/str "Miguel Pe\xF3n-Quir\xF3s (University Complutense of Madrid)"
   - Gerald Q. Maguire Jr. (KTH Royal Institute of Technology)
   - Dejan Kostic (KTH Royal Institute of Technology)
   title: The Nearest Replica Can Be Farther Than You Think
@@ -209,7 +209,7 @@ research:
 - authors:
   - Hui Lu (Department of Computer Science, Purdue University)
   - Brendan Saltaformaggio (Department of Computer Science, Purdue University)
-  - Ramana Kompella (Google Inc.)
+  - Ramana Kompella (Google Inc. and Purdue University)
   - Dongyan Xu (Department of Computer Science, Purdue University)
   title: 'vFair: Latency-Aware Fair Storage Scheduling via Per-IO Cost-Based Differentiation'
 - authors:

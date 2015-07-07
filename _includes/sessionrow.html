@@ -1,0 +1,22 @@
+<tr>
+  <th class="time-column">
+    <div class="session-time">
+      <div class="session-start">{{include.start}}</div>
+      <div class="session-end">{{include.end}}</div>
+    </div>
+  </th>
+  <th class="session-info">
+    <h4 class="session-title">{{include.title}}</h4>
+    <div class="details">
+      {% if include.talks %}
+      {% assign talks = include.talks | split: '|' %}
+      <ul class="session-list">
+        {% for talk in talks %}
+        <li>{{ talk }}</li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+    </div>
+  </th>
+  <th></th>
+</tr>

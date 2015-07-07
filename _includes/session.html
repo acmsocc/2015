@@ -1,0 +1,31 @@
+<h3 class="session-date">{{include.date}}</h3>
+<table class="table table-responsive schedule">
+  <!-- <thead>
+      <tr><th class><h4></h4></th><th></th><th></th></tr>
+  </thead> -->
+  <tbody>
+    {% for session in site.data.sessions[include.key] %}
+      <tr>
+        <th class="time-column">
+          <div class="session-time">
+            <div class="session-start">{{session.start}}</div>
+            <div class="session-end">{{session.end}}</div>
+          </div>
+        </th>
+        <th class="session-info">
+          <h4 class="session-title">{{session.title}}</h4>
+          <div class="details">
+            {% if session.talks %}
+            <ul class="session-list">
+              {% for talk in session.talks %}
+              <li>{{ talk }}</li>
+              {% endfor %}
+            </ul>
+            {% endif %}
+          </div>
+        </th>
+        <th></th>
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>
