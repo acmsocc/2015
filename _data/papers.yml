@@ -80,6 +80,7 @@ research:
     Metadata Management in Cloud Storage Systems'
 - authors:
   - Willis Lang (Microsoft)
+  - Frank Bertsch (University of Wisconsin-Madison)
   - David J. DeWitt (Microsoft)
   - Nigel Ellis (Microsoft)
   title: Microsoft Azure SQL Database Telemetry
