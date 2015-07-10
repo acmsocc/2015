@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+{% include slider-accepted-papers.html %}
+
+<!-- Content -->
+<div class="block">
+  <div class="container">
+    <div class="row">
+
+      <div class="col-md-9">
+        <section id="main-content">
+          <div class="section-content">
+            <header><h2>Accepted papers</h2></header>
+
+            <!-- <a id="research"><h2>Research papers</h2></a> -->
+            {% include paper-list.html category="research" %}
+
+          </div><!-- /.section-content -->
+        </section><!-- /.main-content -->
+      </div><!-- /.col-md-6 -->
+
+      <div class="col-md-3">
+        {% include latest-news.html %}
+      </div><!-- /.col-md-3 -->
+
+    </div><!-- /.row -->
+  </div><!-- /.container -->
+</div>
+<!-- end Content -->
