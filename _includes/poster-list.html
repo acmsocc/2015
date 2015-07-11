@@ -1,0 +1,4 @@
+{% for poster in site.data.posters.posters %}
+  {% assign authors = poster.authors | join: ', ' %}
+  {% include paper-block.html title=poster.title authors=authors %}
+{% endfor %}

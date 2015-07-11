@@ -1,0 +1,215 @@
+posters:
+- authors:
+  - Yazeed Alabdulkarim (University of Southern California)
+  - Sumita Barahmand (Microsoft)
+  - Shahram Ghandeharizadeh (University of Southern California)
+  id: socc15posters-2
+  title: 'BG: A Scalable Benchmark for Interactive Social Networking Actions'
+- authors:
+  - Sam Lightstone (IBM)
+  id: socc15posters-4
+  title: 'KNOW MORE IN A DASH: dashDB ~Easy Webscale Data Warehousing in the Cloud'
+- authors:
+  - Anatoli U. Shein (University of Pittsburgh)
+  - Panos K. Chrysanthis (University of Pittsburgh)
+  - Alexandros Labrinidis (University of Pittsburgh)
+  id: socc15posters-5
+  title: Scalable Processing of Aggregate Continuous Queries in a Distributed Environment
+- authors:
+  - Bilegsaikhan Naidan (Norwegian University of Science and Technology)
+  - Leonid Boytsov (Carnegie Mellon University)
+  - Eric Nyber (Carnegie Mellon University)
+  id: socc15posters-6
+  title: 'Non-Metric Space Library: Developing a Search Toolbox for Generic Spaces.'
+- authors:
+  - Parth Nagarkar (Arizona State University)
+  - K. Selcuk Candan (Arizona State University)
+  - Aneesha Bhat (Arizona State University)
+  id: socc15posters-7
+  title: Compressed Spatial Hierarchical Bitmap (cSHB) Indexes for Efficiently Processing
+    Spatial Range Query Workloads
+- authors:
+  - Anshul Gandhi (Stony Brook University)
+  - Parijat Dube (IBM Research)
+  - Andrzej Kochut (IBM Research)
+  - Li Zhang (IBM Research)
+  id: socc15posters-8
+  title: Model-driven Autoscaling for Hadoop clusters
+- authors:
+  - Kangsoo Jung (Sogang University)
+  - Seog Park (Sogang University)
+  id: socc15posters-9
+  title: Peer-to-Peer Collaborative Caching for Privacy-Preserving Location-based
+    Services
+- authors:
+  - David Schwalb (Hasso Plattner Institute)
+  - Girish Kumar BK (NetApp)
+  - Martin Faust (Hasso Plattner Institute)
+  - Anusha S (NetApp)
+  - Markus Dreseler (Hasso Plattner Institute)
+  - Adolf Hohl (NetApp)
+  - Tim Berning (Hasso Plattner Institute)
+  - Gaurav Makkar (NetApp)
+  - Parag Deshmukh (NetApp)
+  id: socc15posters-10
+  title: Using non-volatile RAM for inherent persistence and fast recovery of an in-memory
+    database
+- authors:
+  - Jana Giceva (ETH Zurich)
+  - Gustavo Alonso (ETH Zurich)
+  - Timothy Roscoe (ETH Zurich)
+  - Tim Harris (Oracle Labs)
+  id: socc15posters-12
+  title: Deployment of Query Plans on Multicores
+- authors:
+  - Philip A. Bernstein (Microsoft Corp.)
+  - Sergey Bykov (Microsoft Corp.)
+  - Alan Geller (Microsoft Corp.)
+  - Gabriel Kliot (Microsoft Corp.)
+  - Jorgen Thelin (Microsoft Corp.)
+  id: socc15posters-13
+  title: 'Orleans: Virtual Actors for Programmability and Scalability of Cloud Applications'
+- authors:
+  - Taebo Jeong (Sogang University)
+  - Sehwa Park (Sogang University)
+  - Kangsoo Jung (Sogang University)
+  - Seog Park (Sogang University)
+  id: socc15posters-15
+  title: A Noise Parameter Configuration Technique to Prevent Correlated Inference
+    Attack using Differential Privacy
+- authors:
+  - Dimitar Misev (Jacobs University Bremen)
+  - Vlad Merticariu (Jacobs University Bremen)
+  - Alex Dumitru (Jacobs University Bremen)
+  - Peter Baumann (Jacobs University Bremen)
+  id: socc15posters-16
+  title: Distributed Data Cube Analytics
+- authors:
+  - Divya Gupta (University of Grenoble, LIG, France)
+  - Lucas Perronne (University of Grenoble, LIG, France)
+  - Sara Bouchenak (INSA Lyon, LIRIS, France)
+  id: socc15posters-17
+  title: 'BFT-Bench: Framework to Evaluate Robustness and Effectiveness of BFT Protocols
+    in Practice'
+- authors:
+  - Akihiro Suda (NTT Software Innovation Center)
+  - Hitoshi Mitake (NTT Software Innovation Center)
+  id: socc15posters-18
+  title: 'Earthquake: An Open-Source Framework of Implementation-Level Distributed
+    System Model Checkers'
+- authors:
+  - Amr El-Helw (Pivotal)
+  - Venkatesh Raghavan (Pivotal)
+  - Mohamed A. Soliman (Pivotal)
+  - George Caragea (Pivotal)
+  - Zhongxian Gu (Datometry)
+  - Michalis Petropoulos (Amazon Web Services)
+  id: socc15posters-19
+  title: Optimization of Common Table Expressions in MPP Database Systems
+- authors:
+  - Yingyi Bu (University of California, Irvine)
+  - Vinayak Borkar (X15 Software, Inc)
+  - Michael J. Carey (University of California, Irvine)
+  - Tyson Condie (University of California, Los Angeles)
+  - Jianfeng Jia (University of California, Irvine)
+  id: socc15posters-20
+  title: 'Pregelix: Big(ger) Graph Analytics on A Dataflow Engine'
+- authors:
+  - Jongryool Kim (Samsung)
+  - Haksu Jeong (Samsung)
+  - Kangwon Lee (Samsung)
+  - Hyunjin Lim (Samsung)
+  id: socc15posters-21
+  title: Energy Efficient User-Space Packet Processing
+- authors:
+  - Jongryool Kim (Samsung)
+  - Choonho Son (Samsung)
+  - Hyungjin Lim (Samsung)
+  id: socc15posters-22
+  title: Scalable High Performance Packet Processing for NFV
+- authors:
+  - Rui Han (Institute Of Computing Technology,Chinese Academy of Sciences)
+  - Shulin Zhan (Institute Of Computing Technology,Chinese Academy of Sciences)
+  - Chenrong Shao (Institute Of Computing Technology,Chinese Academy of Sciences)
+  - Junwei Wang (Institute Of Computing Technology,Chinese Academy of Sciences)
+  - Lizy K. John (Department of Electrical and Computer Engineering, the University
+    of Texas at Austin)
+  - Lei Wang (Institute Of Computing Technology,Chinese Academy of Sciences)
+  - Jianfeng Zhan (Institute Of Computing Technology,Chinese Academy of Sciences)
+  id: socc15posters-23
+  title: 'BigDataBench-MT: A Benchmark Tool for Generating Realistic Mixed Data Center
+    Workloads'
+- authors:
+  - Haoqiong Bian (Renmin University)
+  - Ying Yan (Microsoft Research)
+  - Liang Jeff Chen (Microsoft Research)
+  - Yueguo Chen (Renmin University)
+  - Thomas Moscibroda (Microsoft Research)
+  id: socc15posters-24
+  title: 'Taming Big Wide Tables: Layout Optimization based on Column Ordering'
+- authors:
+  - Netanel Cohen (The Interdisciplinary Center Herzliya, Israel)
+  - Anat Bremler-Barr (The Interdisciplinary Center Herzliya, Israel)
+  id: socc15posters-25
+  title: 'Garbo: Graph-based Cloud Resource Cleanup'
+- authors:
+  - Liang Zhang (Northeastern University)
+  - Frank Cangialosi (University of Maryland)
+  - Theophilus Benson (Duke University)
+  - Dave Levin (University of Maryland)
+  - Alan Mislove (Northeastern University)
+  id: socc15posters-26
+  title: 'Picocenter: Supporting long-lived, mostly-idle applications in cloud environments'
+- authors:
+  - Zhenguo Li (Huawei Noah's Ark Lab)
+  - Yixiang Fang (The University of Hong Kong)
+  - Qin Liu (The Chinese University of Hong Kong)
+  - Jiefeng Cheng (Huawei Noah's Ark Lab)
+  - Reynold Cheng (The University of Hong Kong)
+  - John C.S. Lui (The Chinese University of Hong Kong)
+  id: socc15posters-27
+  title: 'PASCO: Parallel SimRank Computation at Scale'
+- authors:
+  - Suzuha Hatakeyama (Kitami Institute of Technology)
+  - Fumito Masui (Kitami Institute of Technology)
+  - Michal Ptaszynski (Kitami Institute of Technology)
+  - Kazuhide Yamamoto (Nagaoka University of Technology)
+  id: socc15posters-28
+  title: Improving Performance of Cyberbullying Detection Method with Double Filtered
+    Point-wise Mutual Information
+- authors:
+  - Dolan Antenucci (University of Michigan)
+  - Michael R. Anderson (University of Michigan)
+  - Michael Cafarella (University of Michigan)
+  id: socc15posters-30
+  title: 'Raccoon: A Query System for Social Media Signals'
+- authors:
+  - Daniel Margo (Harvard University)
+  - Margo Seltzer (Harvard University)
+  id: socc15posters-32
+  title: 'Sheep: A Scalable Distributed Graph Partitioner'
+- authors:
+  - Samira Elhami Moghadam (Student)
+  - Mehran Sharghi (Professor Assistent)
+  - Reza Azmi (Professor Assistent)
+  id: socc15posters-33
+  title: 'GordSystem: Approximate Query Processing for Very Large Streaming Data'
+- authors:
+  - Muhammad Yousuf Ahmad (McGill University)
+  - Bettina Kemme (McGill University)
+  id: socc15posters-34
+  title: Mitigating compaction overheads in HBase with remote execution and incremental
+    warmup
+- authors:
+  - Qizhen Zhang (Tsinghua University)
+  - Haoran Wang (Shanghai Jiao Tong University)
+  - Yang Chen (Microsoft Research)
+  - Tao Qin (Microsoft Research)
+  - Ying Yan (Microsoft Research)
+  - Thomas Moscibroda (Microsoft Research)
+  id: socc15posters-36
+  title: A Shapley Value Approach for Cost Allocation in the Cloud
+- authors:
+  - Zechao Shang (The Chinese University of Hong Kong)
+  id: socc15posters-37
+  title: Auto-Approximation of Graph Computing
