@@ -18,7 +18,11 @@
             {% if session.talks %}
             <ul class="session-list">
               {% for talk in session.talks %}
-              <li>{{ talk }}</li>
+              <li>
+                <h4 class="talk-title">{{ talk.title }}</h4>
+                {% assign authors = talk.authors | join: ', ' %}
+                <p class="course-meta" style="line-height:18px;">{{authors}}</p>
+              </li>
               {% endfor %}
             </ul>
             {% endif %}

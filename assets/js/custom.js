@@ -107,12 +107,13 @@ $(document).ready(function($) {
 //  Homepage Carousel
 
     $(".image-carousel").owlCarousel({
-        items: 1,
-        autoPlay: true,
-        stopOnHover: true,
-        navigation: true,
-        navigationText : false
-        responsiveBaseWidth: ".image-carousel"
+        //items: 1,
+        singleItem:true,
+        //autoPlay: true,
+        //stopOnHover: true,
+        //navigation: true,
+        //navigationText : false
+        esponsiveBaseWidth: ".image-carousel"
         //responsiveBaseWidth: ".author"
     });
 
