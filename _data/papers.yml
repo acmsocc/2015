@@ -22,7 +22,7 @@ research:
   title: Scheduling Jobs Across Geo-distributed Datacenters
 - authors:
   - Michael Conley (UCSD)
-  - Amin Vahdat (UCSD, Google)
+  - Amin Vahdat (Google and UCSD)
   - George Porter (UCSD)
   title: Achieving Cost-efficient, Data-intensive Computing in the Cloud
 - authors:
