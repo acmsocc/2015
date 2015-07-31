@@ -1,4 +1,8 @@
 day1:
+- end: 8:30 AM
+  start: 7:00 AM
+  talks: []
+  title: Continental Breakfast
 - end: 8:40 AM
   start: 8:30 AM
   talks: []
@@ -108,6 +112,10 @@ day1:
       databases
   title: Scheduling and Performance modeling
 day2:
+- end: 8:30 AM
+  start: 7:00 AM
+  talks: []
+  title: Continental Breakfast
 - end: 8:40 AM
   start: 8:30 AM
   talks: []
@@ -227,6 +235,10 @@ day2:
   talks: []
   title: Banquet
 day3:
+- end: 8:30 AM
+  start: 7:00 AM
+  talks: []
+  title: Continental Breakfast
 - end: 10:10 AM
   start: 8:30 AM
   talks:
