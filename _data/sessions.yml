@@ -15,9 +15,9 @@ day1:
   start: 9:30 AM
   talks:
   - authors:
-    - Jian Huang (Georgia Tech)
+    - Jian Huang (Georgia Institute of Technology)
     - Xuechen Zhang (University of Oregon)
-    - Karsten Schwan (Georgia Tech)
+    - Karsten Schwan (Georgia Institute of Technology)
     title: 'Understanding Issue Correlations: A Case Study of the Hadoop System'
   - authors:
     - Kirill Bogdanov (KTH Royal Institute of Technology)
@@ -61,12 +61,12 @@ day1:
     - Lintao Zhang (Microsoft Research Asia)
     title: 'DSwitch: A Dual Mode Direct and Network Attached Disk'
   - authors:
-    - David Zats (UC Berkeley & Google)
-    - Anand Padmanabha Iyer (UC Berkeley)
+    - David Zats (University of California, Berkeley & Google)
+    - Anand Padmanabha Iyer (University of California, Berkeley)
     - Ganesh Ananthanarayanan (Microsoft Research)
-    - Rachit Agarwal (UC Berkeley)
-    - Randy Katz (UC Berkeley)
-    - Ion Stoica (UC Berkeley)
+    - Rachit Agarwal (University of California, Berkeley)
+    - Randy Katz (University of California, Berkeley)
+    - Ion Stoica (University of California, Berkeley)
     - Amin Vahdat (Google)
     title: 'FastLane: Making Short Flows Shorter with Agile Drop Notification'
   title: New Architectures
@@ -208,7 +208,7 @@ day2:
   talks:
   - authors:
     - Sadeka Islam (University of New South Wales)
-    - Srikumar Venugopal (IBM Research, Ireland and University of New South Wales)
+    - Srikumar Venugopal (IBM Research, Ireland)
     - Anna Liu (National ICT Australia)
     title: Evaluating the Impact of Fine-scale Variability on Cloud Elasticity
   - authors:
@@ -245,14 +245,14 @@ day3:
   start: 8:30 AM
   talks:
   - authors:
-    - Michael Conley (UCSD)
-    - Amin Vahdat (UCSD, Google)
-    - George Porter (UCSD)
+    - Michael Conley (University of California, San Diego)
+    - Amin Vahdat (University of California, San Diego & Google)
+    - George Porter (University of California, San Diego)
     title: Achieving Cost-efficient, Data-intensive Computing in the Cloud
   - authors:
-    - Hiranya Jayathilaka (UC Santa Barbara)
-    - Chandra Krintz (UC Santa Barbara)
-    - Rich Wolski (UC Santa Barbara)
+    - Hiranya Jayathilaka (University of California, Santa Barbara)
+    - Chandra Krintz (University of California, Santa Barbara)
+    - Rich Wolski (University of California, Santa Barbara)
     title: Response Time Service Level Agreements for Cloud-hosted Web Applications
   - authors:
     - Supreeth Subramanya (University of Massachusetts Amherst)
@@ -285,11 +285,11 @@ day3:
   start: 10:40 AM
   talks:
   - authors:
-    - Evan R. Sparks (UC Berkeley)
+    - Evan R. Sparks (University of California, Berkeley)
     - Ameet Talwalkar (UCLA)
-    - Daniel Haas (UC Berkeley)
-    - Michael J. Franklin (UC Berkeley)
-    - Michael I. Jordan (UC Berkeley)
+    - Daniel Haas (University of California, Berkeley)
+    - Michael J. Franklin (University of California, Berkeley)
+    - Michael I. Jordan (University of California, Berkeley)
     - Tim Kraska (Brown University)
     title: Automating Model Search for Large Scale Machine Learning
   - authors:
@@ -314,10 +314,10 @@ day3:
   - authors:
     - Ming Wu (Microsoft Research)
     - Fan Yang (Microsoft Research)
-    - Jilong Xue (Peking University)
-    - Wencong Xiao (Beihang University)
-    - Youshan Miao (University of Science and Technology of China)
-    - Lan Wei (Institute of Software, Chinese Academy of Sciences)
+    - Jilong Xue (Microsoft Research & Peking University)
+    - Wencong Xiao (Microsoft Research & Beihang University)
+    - Youshan Miao (Microsoft Research & University of Science and Technology of China)
+    - Lan Wei (Microsoft Research & Institute of Software, Chinese Academy of Sciences)
     - Haoxiang Lin (Microsoft Research)
     - Yafei Dai (Peking University)
     - Lidong Zhou (Microsoft Research)
@@ -327,7 +327,7 @@ day3:
     - Yingyi Bu (University of California, Irvine)
     - E. Preston Carman, Jr. (University of California, Riverside)
     - Nicola Onose (X15 Software)
-    - Till Westmann (Oracle)
+    - Till Westmann (Oracle Labs)
     - Pouria Pirzadeh (University of California, Irvine)
     - Michael J. Carey (University of California, Irvine)
     - Vassilis J. Tsotras (University of California, Riverside)
