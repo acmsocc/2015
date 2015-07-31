@@ -191,8 +191,10 @@ day2:
   title: High Availability and Replication
 - end: 1:30 PM
   start: 12:00 PM
-  talks: []
-  title: Lunch
+  talks: 
+  - authors:
+    - Student/Senior Researcher Luncheon
+  title: Lunch 
 - end: 3:00 PM
   start: 1:30 PM
   talks: []
