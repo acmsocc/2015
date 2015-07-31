@@ -67,7 +67,7 @@ day1:
     - Rachit Agarwal (University of California, Berkeley)
     - Randy Katz (University of California, Berkeley)
     - Ion Stoica (University of California, Berkeley)
-    - Amin Vahdat (Google)
+    - Amin Vahdat (Google & University of California, San Diego)
     title: 'FastLane: Making Short Flows Shorter with Agile Drop Notification'
   title: New Architectures
 - end: 1:30 PM
@@ -246,7 +246,7 @@ day3:
   talks:
   - authors:
     - Michael Conley (University of California, San Diego)
-    - Amin Vahdat (University of California, San Diego & Google)
+    - Amin Vahdat (Google & University of California, San Diego)
     - George Porter (University of California, San Diego)
     title: Achieving Cost-efficient, Data-intensive Computing in the Cloud
   - authors:

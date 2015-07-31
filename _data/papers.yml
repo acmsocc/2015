@@ -21,9 +21,9 @@ research:
   - Minlan Yu (University of Southern California)
   title: Scheduling Jobs Across Geo-distributed Datacenters
 - authors:
-  - Michael Conley (UCSD)
-  - Amin Vahdat (Google and UCSD)
-  - George Porter (UCSD)
+  - Michael Conley (University of California, San Diego)
+  - Amin Vahdat (Google & University of California, San Diego)
+  - George Porter (University of California, San Diego)
   title: Achieving Cost-efficient, Data-intensive Computing in the Cloud
 - authors:
   - Tayler H. Hetherington (The University of British Columbia)
@@ -63,9 +63,9 @@ research:
   - Xin Pan (University of Waterloo)
   title: Database High Availability Using SHADOW Systems
 - authors:
-  - Hiranya Jayathilaka (UC Santa Barbara)
-  - Chandra Krintz (UC Santa Barbara)
-  - Rich Wolski (UC Santa Barbara)
+  - Hiranya Jayathilaka (University of California, Santa Barbara)
+  - Chandra Krintz (University of California, Santa Barbara)
+  - Rich Wolski (University of California, Santa Barbara)
   title: Response Time Service Level Agreements for Cloud-hosted Web Applications
 - authors:
   - Emilio Coppa (Sapienza University of Rome)
@@ -86,7 +86,7 @@ research:
   title: Microsoft Azure SQL Database Telemetry
 - authors:
   - Sadeka Islam (University of New South Wales)
-  - Srikumar Venugopal (IBM Research, Ireland and University of New South Wales)
+  - Srikumar Venugopal (IBM Research, Ireland)
   - Anna Liu (National ICT Australia)
   title: Evaluating the Impact of Fine-scale Burstiness on Cloud Elasticity
 - authors:
@@ -107,10 +107,10 @@ research:
 - authors:
   - Ming Wu (Microsoft Research)
   - Fan Yang (Microsoft Research)
-  - Jilong Xue (Peking University)
-  - Wencong Xiao (Beihang University)
-  - Youshan Miao (University of Science and Technology of China)
-  - Lan Wei (Institute of Software, Chinese Academy of Sciences)
+  - Jilong Xue (Microsoft Research & Peking University)
+  - Wencong Xiao (Microsoft Research & Beihang University)
+  - Youshan Miao (Microsoft Research & University of Science and Technology of China)
+  - Lan Wei (Microsoft Research & Institute of Software, Chinese Academy of Sciences)
   - Haoxiang Lin (Microsoft Research)
   - Yafei Dai (Peking University)
   - Lidong Zhou (Microsoft Research)
@@ -128,12 +128,12 @@ research:
   - Prashant Shenoy (University of Massachusetts Amherst)
   title: 'SpotOn: A Batch Computing Service for the Spot Market'
 - authors:
-  - David Zats (UC Berkeley & Google)
-  - Anand Padmanabha Iyer (UC Berkeley)
+  - David Zats (University of California, Berkeley & Google)
+  - Anand Padmanabha Iyer (University of California, Berkeley)
   - Ganesh Ananthanarayanan (Microsoft Research)
-  - Rachit Agarwal (UC Berkeley)
-  - Randy Katz (UC Berkeley)
-  - Ion Stoica (UC Berkeley)
+  - Rachit Agarwal (University of California, Berkeley)
+  - Randy Katz (University of California, Berkeley)
+  - Ion Stoica (University of California, Berkeley)
   - Amin Vahdat (Google)
   title: 'FastLane: Making Short Flows Shorter with Agile Drop Notification'
 - authors:
@@ -167,9 +167,9 @@ research:
   - Jay Chen (New York University Abu Dhabi)
   title: Harnessing Data Loss with Forgetful Data Structures
 - authors:
-  - Jian Huang (Georgia Tech)
+  - Jian Huang (Georgia Institute of Technology)
   - Xuechen Zhang (University of Oregon)
-  - Karsten Schwan (Georgia Tech)
+  - Karsten Schwan (Georgia Institute of Technology)
   title: 'Understanding Issue Correlations: A Case Study of the Hadoop System'
 - authors:
   - Ioannis Manousakis (Rutgers University)
@@ -195,7 +195,7 @@ research:
   - Yingyi Bu (University of California, Irvine)
   - E. Preston Carman, Jr. (University of California, Riverside)
   - Nicola Onose (X15 Software)
-  - Till Westmann (Oracle)
+  - Till Westmann (Oracle Labs)
   - Pouria Pirzadeh (University of California, Irvine)
   - Michael J. Carey (University of California, Irvine)
   - Vassilis J. Tsotras (University of California, Riverside)
