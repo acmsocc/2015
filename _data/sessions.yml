@@ -14,6 +14,7 @@ day1:
     - Samuel Madden, MIT
     title: 'Interactive Data Analytics: the New Frontier'
   title: 'Keynote 1'
+  chair: 'Magdalena Balazinska, University of Washington'
 - end: 10:30 AM
   start: 9:30 AM
   talks:
@@ -39,6 +40,7 @@ day1:
     - Jacobus Van der Merwe (University of Utah)
     title: 'POTASSIUM: Penetration Testing as a Service'
   title: Testing
+  chair: 'Sumita Barahmand, Microsoft'
 - end: 11:00 AM
   start: 10:30 AM
   talks: []
@@ -73,6 +75,7 @@ day1:
     - Amin Vahdat (Google & University of California, San Diego)
     title: 'FastLane: Making Short Flows Shorter with Agile Drop Notification'
   title: New Architectures
+  chair: 'Spyros Blanas, The Ohio State University'
 - end: 1:30 PM
   start: 12:20 PM
   talks: []
@@ -114,6 +117,7 @@ day1:
     title: Forecasting the cost of processing multi-join queries via hashing for main-memory
       databases
   title: Scheduling and Performance modeling
+  chair: 'Siddhartha Sen, Microsoft Research'
 day2:
 - end: 8:30 AM
   start: 7:00 AM
@@ -130,6 +134,7 @@ day2:
     - 'Eric Brewer, Google & University of California, Berkeley'
     title: 'Kubernetes and the Path to Cloud Native'
   title: 'Keynote 2'
+  chair: 'Michael Freedman, Princeton University'
 - end: 10:10 AM
   start: 9:30 AM
   talks:
@@ -160,6 +165,7 @@ day2:
     - Nigel Ellis (Microsoft)
     title: Microsoft Azure SQL Database Telemetry
   title: Short Papers
+  chair: 'Philip Bernstein, Microsoft Research'
 - end: 10:40 AM
   start: 10:10 AM
   talks: []
@@ -195,12 +201,13 @@ day2:
     title: 'ShardFS vs. IndexFS: Replication vs. Caching Strategies for Distributed
       Metadata Management in Cloud Storage Systems'
   title: High Availability and Replication
+  chair: 'Fred Douglis, EMC'
 - end: 1:30 PM
   start: 12:00 PM
-  talks: 
+  talks:
   - authors:
     - Student/Senior Researcher Luncheon
-  title: Lunch 
+  title: Lunch
 - end: 3:00 PM
   start: 1:30 PM
   talks: []
@@ -238,6 +245,7 @@ day2:
     - Purushottam Kulkarni (IIT Bombay)
     title: Towards a Comprehensive Performance Model of Virtual Machine Live Migration
   title: Elasticity and Migration
+  chair: 'Wyatt Lloyd, University of Southern California'
 - end: 9:00 PM
   start: 7:00 PM
   talks: []
@@ -283,6 +291,7 @@ day3:
     - Ricardo Bianchini (Rutgers University and Microsoft Research)
     title: 'CoolProvision: Underprovisioning Datacenter Cooling'
   title: Cost and Performance Trade-offs
+  chair: 'Azza Abouzied, New York University Abu Dhabi'
 - end: 10:40 AM
   start: 10:10 AM
   talks: []
@@ -339,3 +348,4 @@ day3:
     - Vassilis J. Tsotras (University of California, Riverside)
     title: 'Algebricks: A Data Model-Agnostic Compiler Backend for Big Data Languages'
   title: Complex Analytics
+  chair: 'Jennie Dugan, Northwestern University'
