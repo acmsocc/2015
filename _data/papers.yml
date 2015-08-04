@@ -70,7 +70,7 @@ research:
 - authors:
   - Emilio Coppa (Sapienza University of Rome)
   - Irene Finocchi (Sapienza University of Rome)
-  title: On data skewness, stragglers, and MapReduce progress indicators
+  title: On Data Skewness, Stragglers, and MapReduce Progress Indicators
 - authors:
   - Lin Xiao (Carnegie Mellon University)
   - Kai Ren (Carnegie Mellon University)
@@ -216,8 +216,8 @@ research:
 - authors:
   - Feilong Liu (The Ohio State University)
   - Spyros Blanas (The Ohio State University)
-  title: Forecasting the cost of processing multi-join queries via hashing for main-memory
-    databases
+  title: Forecasting the Cost of Processing Multi-join Queries via Hashing for Main-memory
+    Databases
 - authors:
   - Evan R. Sparks (UC Berkeley)
   - Ameet Talwalkar (UCLA)
