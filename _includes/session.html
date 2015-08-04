@@ -14,6 +14,9 @@
         </th>
         <th class="session-info">
           <h4 class="session-title">{{session.title}}</h4>
+          {% if session.chair %}
+            <h5 style="margin-top:4px;">Chair: {{session.chair}}</h5>
+          {% endif %}
           <div class="details">
             {% if session.talks %}
             <ul class="session-list">
