@@ -125,8 +125,11 @@ day2:
   title: PC Chair's Report
 - end: 9:30 AM
   start: 8:40 AM
-  talks: []
-  title: 'Keynote 2: Eric Brewer, Google/UC Berkeley'
+  talks:
+  - authors:
+    - 'Eric Brewer, Google/University of California, Berkeley'
+    title: 'Kubernetes and the Path to Cloud Native'
+  title: 'Keynote 2'
 - end: 10:10 AM
   start: 9:30 AM
   talks:
