@@ -9,8 +9,10 @@ day1:
   title: General Chair's Welcome
 - end: 9:30 AM
   start: 8:40 AM
-  talks: []
-  title: 'Keynote 1: Samuel Madden, MIT'
+  talks: 
+  - authors: 
+    - Samuel Madden, MIT
+  title: 'Keynote 1: Interactive Data Analytics: the New Frontier'
 - end: 10:30 AM
   start: 9:30 AM
   talks:
@@ -210,7 +212,7 @@ day2:
     - Sadeka Islam (University of New South Wales)
     - Srikumar Venugopal (IBM Research, Ireland)
     - Anna Liu (National ICT Australia)
-    title: Evaluating the Impact of Fine-scale Variability on Cloud Elasticity
+    title: Evaluating the Impact of Fine-scale Burstiness on Cloud Elasticity
   - authors:
     - Bailu Ding (Cornell University)
     - Lucja Kot (Cornell University)
