@@ -127,7 +127,7 @@ day2:
   start: 8:40 AM
   talks:
   - authors:
-    - 'Eric Brewer, Google/University of California, Berkeley'
+    - 'Eric Brewer, Google & University of California, Berkeley'
     title: 'Kubernetes and the Path to Cloud Native'
   title: 'Keynote 2'
 - end: 10:10 AM
