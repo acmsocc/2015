@@ -9,10 +9,11 @@ day1:
   title: General Chair's Welcome
 - end: 9:30 AM
   start: 8:40 AM
-  talks: 
-  - authors: 
+  talks:
+  - authors:
     - Samuel Madden, MIT
-  title: 'Keynote 1: Interactive Data Analytics: the New Frontier'
+    title: 'Interactive Data Analytics: the New Frontier'
+  title: 'Keynote 1'
 - end: 10:30 AM
   start: 9:30 AM
   talks:
