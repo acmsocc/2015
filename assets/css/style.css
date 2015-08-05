@@ -201,8 +201,8 @@ ul.list-links a:hover {
   width: 160px;
 }
 .author-block.member-detail .paragraph-wrapper h2 {
-  font-size: 34px;
-  font-weight: bold;
+  font-size: 22px;
+  /*font-weight: bold;*/
   margin: 0 0 5px 0;
 }
 .author-block.member-detail .paragraph-wrapper h2:after {
@@ -212,7 +212,7 @@ ul.list-links a:hover {
   margin-bottom: 20px;
 }
 .author-block.member-detail .paragraph-wrapper figure {
-  font-size: 14px;
+  font-size: 18px;
   float: none;
 }
 .author-block.member-detail .paragraph-wrapper .quote {
@@ -4510,4 +4510,7 @@ ul.session-list li {
 .talk-title {
   color:#252525;
   margin:0 0 5px 0;
+}
+h3.speaker-header {
+  margin-bottom:2px !important;
 }

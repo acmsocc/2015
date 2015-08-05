@@ -1,0 +1,18 @@
+<div class="author-block member-detail">
+  <figure class="author-picture"><img src="{{include.photo}}" alt=""></figure>
+  {% assign speaker = site.data.keynotes[include.key] %}
+  <article class="paragraph-wrapper">
+    <div class="inner">
+      <header><h2>{{speaker.name}}</h2></header>
+      <figure>{{speaker.title}}</figure>
+    <hr>
+    <h3 class="speaker-header">Abstract</h3>
+    <p style="color:#373737;">{{speaker.abstract}}</p>
+    <h3 class="speaker-header">Bio</h3>
+    <p style="color:#373737;">{{speaker.bio1}}</p>
+    {% if speaker.bio2 %}
+      <p style="color:#373737;">{{speaker.bio2}}</p>
+    {% endif %}
+    </div>
+  </article>
+</div>
