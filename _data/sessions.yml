@@ -1,125 +1,351 @@
 day1:
-- start: 8:30 AM
-  end: 8:40 AM
+- end: 8:30 AM
+  start: 7:00 AM
+  talks: []
+  title: Continental Breakfast
+- end: 8:40 AM
+  start: 8:30 AM
+  talks: []
   title: General Chair's Welcome
-  talks: []
-- start: 8:40 AM
-  end: 9:30 AM
-  title: 'Keynote 1: Samuel Madden, MIT'
-  talks: []
-- start: 9:30 AM
-  end: 10:30 AM
+- end: 9:30 AM
+  start: 8:40 AM
+  talks:
+  - authors:
+    - Samuel Madden, MIT
+    title: 'Interactive Data Analytics: the New Frontier'
+  title: 'Keynote 1'
+  chair: 'Magdalena Balazinska, University of Washington'
+- end: 10:30 AM
+  start: 9:30 AM
+  talks:
+  - authors:
+    - Jian Huang (Georgia Institute of Technology)
+    - Xuechen Zhang (University of Oregon)
+    - Karsten Schwan (Georgia Institute of Technology)
+    title: 'Understanding Issue Correlations: A Case Study of the Hadoop System'
+  - authors:
+    - Kirill Bogdanov (KTH Royal Institute of Technology)
+    - !!python/str "Miguel Pe\xF3n-Quir\xF3s (University Complutense of Madrid)"
+    - Gerald Q. Maguire Jr. (KTH Royal Institute of Technology)
+    - Dejan Kostic (KTH Royal Institute of Technology)
+    title: The Nearest Replica Can Be Farther Than You Think
+  - authors:
+    - Richard Li (University of Utah)
+    - Dallin Abendroth (University of Utah)
+    - Xing Lin (University of Utah)
+    - Yuankai Guo (University of Utah)
+    - Hyun-wook Baek (University of Utah)
+    - Eric Eide (University of Utah)
+    - Robert Ricci (University of Utah)
+    - Jacobus Van der Merwe (University of Utah)
+    title: 'POTASSIUM: Penetration Testing as a Service'
   title: Testing
-  talks:
-  - 'Understanding Issue Correlations: A Case Study of Hadoop Systems'
-  - The Nearest Replica Can Be Farther Than You Think
-  - 'POTASSIUM: Penetration Testing as a Service'
-- start: 10:30 AM
-  end: 11:00 AM
-  title: Break
+  chair: 'Sumita Barahmand, Microsoft'
+- end: 11:00 AM
+  start: 10:30 AM
   talks: []
-- start: 11:00 AM
-  end: 12:20 PM
+  title: Break
+- end: 12:20 PM
+  start: 11:00 AM
+  talks:
+  - authors:
+    - Tayler H. Hetherington (The University of British Columbia)
+    - Mike O'Connor (NVIDIA / UT-Austin)
+    - Tor M. Aamodt (The University of British Columbia)
+    title: 'MemcachedGPU: Scaling-up Scale-out Key-value Stores'
+  - authors:
+    - Sergey Grizan (Siberian Federal University)
+    - David Chu (Microsoft Research)
+    - Alec Wolman (Microsoft Research)
+    - Roger Wattenhofer (ETH Zurich)
+    title: 'dJay: Enabling High-density Multi-tenancy for Cloud Gaming Servers with
+      Dynamic Cost-Benefit GPU Load Balancing'
+  - authors:
+    - Quanlu Zhang (Peking University)
+    - Yafei Dai (Peking University)
+    - Lintao Zhang (Microsoft Research Asia)
+    title: 'DSwitch: A Dual Mode Direct and Network Attached Disk'
+  - authors:
+    - David Zats (University of California, Berkeley & Google)
+    - Anand Padmanabha Iyer (University of California, Berkeley)
+    - Ganesh Ananthanarayanan (Microsoft Research)
+    - Rachit Agarwal (University of California, Berkeley)
+    - Randy Katz (University of California, Berkeley)
+    - Ion Stoica (University of California, Berkeley)
+    - Amin Vahdat (Google & University of California, San Diego)
+    title: 'FastLane: Making Short Flows Shorter with Agile Drop Notification'
   title: New Architectures
-  talks:
-  - 'MemcachedGPU: Scaling-up Scale-out Key-value Stores'
-  - 'dJay: Enabling High-density Multi-tenancy for Cloud Gaming Servers with Dynamic Cost-Benefit GPU Load Balancing'
-  - 'DSwitch: A Dual Mode Direct and Network Attached Disk'
-  - 'FastLane: Making Short Flows Shorter with Agile Drop Notification'
-- start: 12:20 PM
-  end: 1:30 PM
-  title: Lunch
+  chair: 'Spyros Blanas, The Ohio State University'
+- end: 1:30 PM
+  start: 12:20 PM
   talks: []
-- start: 1:30 PM
-  end: 3:00 PM
+  title: Lunch
+- end: 3:00 PM
+  start: 1:30 PM
+  talks: []
   title: Posters 1
+- end: 3:30 PM
+  start: 3:00 PM
   talks: []
-- start: 3:00 PM
-  end: 3:30 PM
   title: Break
-  talks: []
-- start: 3:30 PM
-  end: 5:10 PM
+- end: 5:10 PM
+  start: 3:30 PM
+  talks:
+  - authors:
+    - Christina Delimitrou (Stanford University)
+    - Daniel Sanchez (MIT)
+    - Christos Kozyrakis (Stanford University)
+    title: 'Tarcil: Reconciling Scheduling Speed and Quality in Large Shared Clusters'
+  - authors:
+    - Chien-Chun Hung (University of Southern California)
+    - Leana Golubchik (University of Southern California)
+    - Minlan Yu (University of Southern California)
+    title: Scheduling Jobs Across Geo-Distributed Datacenters
+  - authors:
+    - Hui Lu (Department of Computer Science, Purdue University)
+    - Brendan Saltaformaggio (Department of Computer Science, Purdue University)
+    - Ramana Kompella (Google Inc. and Purdue University)
+    - Dongyan Xu (Department of Computer Science, Purdue University)
+    title: 'vFair: Latency-Aware Fair Storage Scheduling via Per-IO Cost-Based Differentiation'
+  - authors:
+    - Emilio Coppa (Sapienza University of Rome)
+    - Irene Finocchi (Sapienza University of Rome)
+    title: On Data Skewness, Stragglers, and MapReduce Progress Indicators
+  - authors:
+    - Feilong Liu (The Ohio State University)
+    - Spyros Blanas (The Ohio State University)
+    title: Forecasting the Cost of Processing Multi-join Queries via Hashing for Main-memory
+      Databases
   title: Scheduling and Performance modeling
-  talks:
-  - 'Tarcil: Reconciling Scheduling Speed and Quality in Large Shared Clusters'
-  - Scheduling Jobs Across Geo-Distributed Datacenters
-  - 'vFair: Latency-Aware Fair Storage Scheduling via Per-IO Cost-Based Differentiation'
-  - On data skewness, stragglers, and MapReduce progress indicators
-  - Forecasting the cost of processing multi-join queries via hashing for main-memory databases
+  chair: 'Siddhartha Sen, Microsoft Research'
 day2:
-- start: 8:30 AM
-  end: 8:40 AM
+- end: 8:30 AM
+  start: 7:00 AM
+  talks: []
+  title: Continental Breakfast
+- end: 8:40 AM
+  start: 8:30 AM
+  talks: []
   title: PC Chair's Report
-  talks: []
-- start: 8:40 AM
-  end: 9:30 AM
-  title: 'Keynote 2: Eric Brewer, Google/UC Berkeley'
-  talks: []
-- start: 9:30 AM
-  end: 10:10 AM
+- end: 9:30 AM
+  start: 8:40 AM
+  talks:
+  - authors:
+    - 'Eric Brewer, Google & University of California, Berkeley'
+    title: 'Kubernetes and the Path to Cloud Native'
+  title: 'Keynote 2'
+  chair: 'Michael Freedman, Princeton University'
+- end: 10:10 AM
+  start: 9:30 AM
+  talks:
+  - authors:
+    - Azza Abouzied (New York University Abu Dhabi)
+    - Jay Chen (New York University Abu Dhabi)
+    title: Harnessing Data Loss with Forgetful Data Structures
+  - authors:
+    - Ioan Stefanovici (University of Toronto)
+    - Eno Thereska (Microsoft Research)
+    - Greg O'Shea (Microsoft Research)
+    - Bianca Schroeder (University of Toronto)
+    - Hitesh Ballani (Microsoft Research)
+    - Thomas Karagiannis (Microsoft Research)
+    - Antony Rowstron (Microsoft Research)
+    - Tom Talpey (Microsoft)
+    title: 'Software-Defined Caching: Managing Caches in Multi-Tenant Data Centers'
+  - authors:
+    - Ding Li (University of Southern California)
+    - James Mickens (Harvard University)
+    - Suman Nath (Microsoft Research)
+    - Lenin Ravindranath (Microsoft Research)
+    title: 'Domino: Understanding Wide-Area, Asynchronous Event Chains in Web Applications'
+  - authors:
+    - Willis Lang (Microsoft)
+    - Frank Bertsch (University of Wisconsin-Madison)
+    - David J. DeWitt (Microsoft)
+    - Nigel Ellis (Microsoft)
+    title: Microsoft Azure SQL Database Telemetry
   title: Short Papers
-  talks:
-  - Harnessing Data Loss with Forgetful Data Structures
-  - 'Software-Defined Caching: Managing Caches in Multi-Tenant Data Centers'
-  - 'Domino: Understanding Wide-Area, Asynchronous Event Chains in Web Applications'
-  - Microsoft Azure SQL Database Telemetry
-- start: 10:10 AM
-  end: 10:40 AM
-  title: Break
+  chair: 'Philip Bernstein, Microsoft Research'
+- end: 10:40 AM
+  start: 10:10 AM
   talks: []
-- start: 10:40 AM
-  end: 12:00 PM
+  title: Break
+- end: 12:00 PM
+  start: 10:40 AM
+  talks:
+  - authors:
+    - Mayank Pundir (University of Illinois at Urbana-Champaign)
+    - Luke M. Leslie (University of Illinois at Urbana-Champaign)
+    - Indranil Gupta (University of Illinois at Urbana-Champaign)
+    - Roy H. Campbell (University of Illinois at Urbana-Champaign)
+    title: 'Zorro: Zero-Cost Reactive Failure Recovery in Distributed Graph Processing'
+  - authors:
+    - Jaemyung Kim (University of Waterloo)
+    - Kenneth Salem (University of Waterloo)
+    - Khuzaima Daudjee (University of Waterloo)
+    - Ashraf Aboulnaga (Qatar Computing Research Institute)
+    - Xin Pan (University of Waterloo)
+    title: Database High Availability Using SHADOW Systems
+  - authors:
+    - Lianghong Xu (Carnegie Mellon University)
+    - Andrew Pavlo (Carnegie Mellon University)
+    - Sudipta Sengupta (Microsoft Research)
+    - Jin Li (Microsoft Research)
+    - Gregory R. Ganger (Carnegie Mellon University)
+    title: Reducing Replication Bandwidth for Distributed Document Databases
+  - authors:
+    - Lin Xiao (Carnegie Mellon University)
+    - Kai Ren (Carnegie Mellon University)
+    - Qing Zheng (Carnegie Mellon University)
+    - Garth A. Gibson (Carnegie Mellon University)
+    title: 'ShardFS vs. IndexFS: Replication vs. Caching Strategies for Distributed
+      Metadata Management in Cloud Storage Systems'
   title: High Availability and Replication
+  chair: 'Fred Douglis, EMC'
+- end: 1:30 PM
+  start: 12:00 PM
   talks:
-  - 'Zorro: Zero-Cost Reactive Failure Recovery in Distributed Graph Processing'
-  - Database High Availability Using SHADOW Systems
-  - Reducing Replication Bandwidth for Distributed Document Databases
-  - 'ShardFS vs. IndexFS: Replication vs. Caching Strategies for Distributed Metadata Management in Cloud Storage Systems'
-- start: 12:00 PM
-  end: 1:30 PM
+  - authors:
+    - Student/Senior Researcher Luncheon
   title: Lunch
+- end: 3:00 PM
+  start: 1:30 PM
   talks: []
-- start: 1:30 PM
-  end: 3:00 PM
   title: Posters 2
+- end: 3:30 PM
+  start: 3:00 PM
   talks: []
-- start: 3:00 PM
-  end: 3:30 PM
   title: Break
-  talks: []
-- start: 3:30 PM
-  end: 4:50 PM
+- end: 4:50 PM
+  start: 3:30 PM
+  talks:
+  - authors:
+    - Sadeka Islam (University of New South Wales)
+    - Srikumar Venugopal (IBM Research, Ireland)
+    - Anna Liu (National ICT Australia)
+    title: Evaluating the Impact of Fine-scale Burstiness on Cloud Elasticity
+  - authors:
+    - Bailu Ding (Cornell University)
+    - Lucja Kot (Cornell University)
+    - Alan Demers (Cornell University)
+    - Johannes Gehrke (Microsoft Corporation, Cornell University)
+    title: 'Centiman: Elastic, High Performance Optimistic Concurrency Control by
+      Watermarking'
+  - authors:
+    - Thomas Heinze (SAP SE)
+    - Lars Roediger (SAP SE)
+    - Andreas Meister (University of Magdeburg)
+    - Yuanzhen Ji (SAP SE)
+    - Zbigniew Jerzak (SAP SE)
+    - Christof Fetzer (TU Dresden)
+    title: Online Parameter Optimization for Elastic Data Stream Processing
+  - authors:
+    - Senthil Nathan (IIT Bombay)
+    - Umesh Bellur (IIT Bombay)
+    - Purushottam Kulkarni (IIT Bombay)
+    title: Towards a Comprehensive Performance Model of Virtual Machine Live Migration
   title: Elasticity and Migration
-  talks:
-  - Evaluating the Impact of Fine-scale Variability on Cloud Elasticity
-  - 'Centiman: Elastic, High Performance Optimistic Concurrency Control by Watermarking'
-  - Online Parameter Optimization for Elastic Data Stream Processing
-  - Towards a Comprehensive Performance Model of Virtual Machine Live Migration
-- start: 7:00 PM
-  end: 9:00 PM
+  chair: 'Wyatt Lloyd, University of Southern California'
+- end: 9:00 PM
+  start: 7:00 PM
+  talks: []
   title: Banquet
-  talks: []
 day3:
-- start: 8:30 AM
-  end: 10:10 AM
-  title: Cost and Performance Trade-offs
-  talks:
-  - Achieving Cost-efficient, Data-intensive Computing in the Cloud
-  - Response Time Service Level Agreements for Cloud-hosted Web Applications
-  - 'SpotOn: A Batch Computing Service for the Spot Market'
-  - Energy Proportionality and Workload Consolidation for Latency-critical Applications
-  - 'CoolProvision: Underprovisioning Datacenter Cooling'
-- start: 10:10 AM
-  end: 10:40 AM
-  title: Break
+- end: 8:30 AM
+  start: 7:00 AM
   talks: []
-- start: 10:40 AM
-  end: 12:20 PM
-  title: Complex Analytics
+  title: Continental Breakfast
+- end: 10:10 AM
+  start: 8:30 AM
   talks:
-  - Automating Model Search for Large Scale Machine Learning
-  - Managed Communication and Consistency for Fast Data-Parallel Iterative Analytics
-  - Using Data Transformations for Low-latency Time Series Analysis
-  - 'GraM: Scaling Graph Computation to the Trillions'
-  - 'Algebricks: A Data Model-Agnostic Compiler Backend for Big Data Languages'
+  - authors:
+    - Michael Conley (University of California, San Diego)
+    - Amin Vahdat (Google & University of California, San Diego)
+    - George Porter (University of California, San Diego)
+    title: Achieving Cost-efficient, Data-intensive Computing in the Cloud
+  - authors:
+    - Hiranya Jayathilaka (University of California, Santa Barbara)
+    - Chandra Krintz (University of California, Santa Barbara)
+    - Rich Wolski (University of California, Santa Barbara)
+    title: Response Time Service Level Agreements for Cloud-hosted Web Applications
+  - authors:
+    - Supreeth Subramanya (University of Massachusetts Amherst)
+    - Tian Guo (University of Massachusetts Amherst)
+    - Prateek Sharma (University of Massachusetts Amherst)
+    - David Irwin (University of Massachusetts Amherst)
+    - Prashant Shenoy (University of Massachusetts Amherst)
+    title: 'SpotOn: A Batch Computing Service for the Spot Market'
+  - authors:
+    - George Prekas (EPFL)
+    - Mia Primorac (EPFL)
+    - Adam Belay (Stanford)
+    - Christos Kozyrakis (Stanford)
+    - Edouard Bugnion (EPFL)
+    title: Energy Proportionality and Workload Consolidation for Latency-critical
+      Applications
+  - authors:
+    - Ioannis Manousakis (Rutgers University)
+    - Inigo Goiri (Microsoft Research)
+    - Sriram Sankar (GoDaddy)
+    - Thu D. Nguyen (Rutgers University)
+    - Ricardo Bianchini (Rutgers University and Microsoft Research)
+    title: 'CoolProvision: Underprovisioning Datacenter Cooling'
+  title: Cost and Performance Trade-offs
+  chair: 'Azza Abouzied, New York University Abu Dhabi'
+- end: 10:40 AM
+  start: 10:10 AM
+  talks: []
+  title: Break
+- end: 12:20 PM
+  start: 10:40 AM
+  talks:
+  - authors:
+    - Evan R. Sparks (University of California, Berkeley)
+    - Ameet Talwalkar (UCLA)
+    - Daniel Haas (University of California, Berkeley)
+    - Michael J. Franklin (University of California, Berkeley)
+    - Michael I. Jordan (University of California, Berkeley)
+    - Tim Kraska (Brown University)
+    title: Automating Model Search for Large Scale Machine Learning
+  - authors:
+    - Jinliang Wei (Carnegie Mellon University)
+    - Wei Dai (Carnegie Mellon University)
+    - Aurick Qiao (Carnegie Mellon University)
+    - Qirong Ho (Institute for Infocomm Research, A*STAR)
+    - Henggang Cui (Carnegie Mellon University)
+    - Gregory R. Ganger (Carnegie Mellon University)
+    - Phillip B. Gibbons (Intel Labs)
+    - Garth A. Gibson (Carnegie Mellon University)
+    - Eric P. Xing (Carnegie Mellon University)
+    title: Managed Communication and Consistency for Fast Data-Parallel Iterative
+      Analytics
+  - authors:
+    - Henggang Cui (Carnegie Mellon University)
+    - Kimberly Keeton (Hewlett-Packard Laboratories)
+    - Indrajit Roy (Hewlett-Packard Laboratories)
+    - Krishnamurthy Viswanathan (Hewlett-Packard Laboratories)
+    - Gregory R. Ganger (Carnegie Mellon University)
+    title: Using Data Transformations for Low-latency Time Series Analysis
+  - authors:
+    - Ming Wu (Microsoft Research)
+    - Fan Yang (Microsoft Research)
+    - Jilong Xue (Microsoft Research & Peking University)
+    - Wencong Xiao (Microsoft Research & Beihang University)
+    - Youshan Miao (Microsoft Research & University of Science and Technology of China)
+    - Lan Wei (Microsoft Research & Institute of Software, Chinese Academy of Sciences)
+    - Haoxiang Lin (Microsoft Research)
+    - Yafei Dai (Peking University)
+    - Lidong Zhou (Microsoft Research)
+    title: 'GraM: Scaling Graph Computation to the Trillions'
+  - authors:
+    - Vinayak Borkar (X15 Software)
+    - Yingyi Bu (University of California, Irvine)
+    - E. Preston Carman, Jr. (University of California, Riverside)
+    - Nicola Onose (X15 Software)
+    - Till Westmann (Oracle Labs)
+    - Pouria Pirzadeh (University of California, Irvine)
+    - Michael J. Carey (University of California, Irvine)
+    - Vassilis J. Tsotras (University of California, Riverside)
+    title: 'Algebricks: A Data Model-Agnostic Compiler Backend for Big Data Languages'
+  title: Complex Analytics
+  chair: 'Jennie Dugan, Northwestern University'

@@ -201,8 +201,8 @@ ul.list-links a:hover {
   width: 160px;
 }
 .author-block.member-detail .paragraph-wrapper h2 {
-  font-size: 34px;
-  font-weight: bold;
+  font-size: 22px;
+  /*font-weight: bold;*/
   margin: 0 0 5px 0;
 }
 .author-block.member-detail .paragraph-wrapper h2:after {
@@ -212,7 +212,7 @@ ul.list-links a:hover {
   margin-bottom: 20px;
 }
 .author-block.member-detail .paragraph-wrapper figure {
-  font-size: 14px;
+  font-size: 18px;
   float: none;
 }
 .author-block.member-detail .paragraph-wrapper .quote {
@@ -4472,4 +4472,45 @@ input.gsc-input {
   left: 0;
   width: 100% !important;
   height: 100% !important;
+}
+
+/* schduele styling */
+.schedule {
+  border-bottom: 1px solid #ddd;
+  margin-bottom: 40px
+}
+.time-column {
+  width: 84px;
+}
+.session-time {
+  text-align: right;
+}
+.session-start {
+  color: #52575f;
+}
+.session-end {
+  color: #a6aaa8;
+}
+.session-info {
+  border-left: 4px solid #ddd
+}
+.session-title {
+  font-size: 16px;
+  margin: 0 0 2px 0;
+}
+.session-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style-type:none;
+  color: #767676;
+}
+ul.session-list li {
+  padding: 8px 0 0 0;
+}
+.talk-title {
+  color:#252525;
+  margin:0 0 5px 0;
+}
+h3.speaker-header {
+  margin-bottom:2px !important;
 }
