@@ -94,6 +94,7 @@ posters:
 - authors:
   - Akihiro Suda (NTT Software Innovation Center)
   - Hitoshi Mitake (NTT Software Innovation Center)
+  - Tomonori Fujita (NTT Software Innovation Center)
   id: socc15posters-18
   title: 'Earthquake: An Open-Source Framework of Implementation-Level Distributed
     System Model Checkers'
@@ -213,3 +214,29 @@ posters:
   - Zechao Shang (The Chinese University of Hong Kong)
   id: socc15posters-37
   title: Auto-Approximation of Graph Computing
+-authors:
+  - Sattam Alsubaiee, University of California, Irvine
+  - Yasser Altowim, University of California, Irvine
+  - Hotham Altwaijry, University of California, Irvine
+  - Alexander Behm, Cloudera (work done at University of California, Irvine)
+  - Vinayak Borkar, University of California, Irvine
+  - Yingyi Bu, University of California, Irvine
+  - Michael Carey, University of California, Irvine
+  - Inci Cetindil, University of California, Irvine
+  - Madhusudan Cheelangi, Google (work done at University of California, Irvine)
+  - Khurram Faraaz, IBM (work done at University of California, Irvine)
+  - Eugenia Gabrielova, University of California, Irvine
+  - Raman Grover, University of California, Irvine
+  - Zachary Heilbron, University of California, Irvine
+  - Young-Seok Kim, University of California, Irvine
+  - Chen Li, University of California, Irvine
+  - Guangqiang Li, MarkLogic (work done at University of California, Irvine)
+  - Ji Mahn Ok, University of California, Irvine
+  - Nicola Onose, Pivotal (work done at University of California, Irvine)
+  - Pouria Pirzadeh, University of California, Irvine
+  - Vassilis Tsotras, University of California, Riverside
+  - Rares Vernica, HP Labs (work done at University of California, Irvine)
+  - Jian Wen, Oracle Labs (work done at University of California, Riverside)
+  - Till Westmann, Oracle Labs
+  id: socc15posters-38
+  title: AsterixDB: A Big Data Management System
