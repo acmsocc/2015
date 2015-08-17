@@ -214,7 +214,7 @@ posters:
   - Zechao Shang (The Chinese University of Hong Kong)
   id: socc15posters-37
   title: Auto-Approximation of Graph Computing
--authors:
+- authors:
   - Sattam Alsubaiee, University of California, Irvine
   - Yasser Altowim, University of California, Irvine
   - Hotham Altwaijry, University of California, Irvine
@@ -239,4 +239,4 @@ posters:
   - Jian Wen, Oracle Labs (work done at University of California, Riverside)
   - Till Westmann, Oracle Labs
   id: socc15posters-38
-  title: AsterixDB: A Big Data Management System
+  title: "AsterixDB: A Big Data Management System"
