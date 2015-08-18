@@ -1,10 +1,11 @@
 day0:
 - end: 6:00 AM
   start: 8:00 AM
-  talks: []
+  talks: 
+  - authors: 
+    - Bar open until 9.00 PM
+    title: 'Hyatt Grand Staircase'
   title: Welcome Reception
-  - authors:
-    - Hilton Grand Staircase
 day1:
 - end: 8:30 AM
   start: 7:00 AM
