@@ -1,6 +1,6 @@
 day0:
-- end: 6:00 PM
-  start: 8:00 PM
+- end: 8:00 PM
+  start: 6:00 PM
   talks: 
   - authors: 
     - Bar open until 9.00 PM
