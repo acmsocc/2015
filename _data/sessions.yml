@@ -1,6 +1,6 @@
 day0:
-- end: 6:00 AM
-  start: 8:00 AM
+- end: 6:00 PM
+  start: 8:00 PM
   talks: []
   title: Welcome Reception
   - authors:
