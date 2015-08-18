@@ -22,7 +22,11 @@
             <ul class="session-list">
               {% for talk in session.talks %}
               <li>
+                {% if talk.url %}
+                <a href="{{talk.url}}"><h4 class="talk-title">{{ talk.title }}</h4></a>
+                {% else %}
                 <h4 class="talk-title">{{ talk.title }}</h4>
+                {% endif %}
                 {% assign authors = talk.authors | join: ', ' %}
                 <p class="course-meta" style="line-height:18px;">{{authors}}</p>
               </li>
