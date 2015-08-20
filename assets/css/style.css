@@ -4511,6 +4511,9 @@ ul.session-list li {
   color:#252525;
   margin:0 0 5px 0;
 }
+.talk-title-link {
+  margin:0 0 5px 0;
+}
 h3.speaker-header {
   margin-bottom:2px !important;
 }
