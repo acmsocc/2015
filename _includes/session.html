@@ -23,7 +23,7 @@
               {% for talk in session.talks %}
               <li>
                 {% if talk.url %}
-                <a href="{{talk.url}}"><h4 class="talk-title">{{ talk.title }}</h4></a>
+                <a href="{{talk.url}}"><h4 class="talk-title-link">{{ talk.title }}</h4></a>
                 {% else %}
                 <h4 class="talk-title">{{ talk.title }}</h4>
                 {% endif %}

@@ -1,7 +1,7 @@
 <div class="author-block member-detail">
   <figure class="author-picture"><img src="{{include.photo}}" alt=""></figure>
   {% assign speaker = site.data.keynotes[include.key] %}
-  <article class="paragraph-wrapper">
+  <article id ="{{include.key}}"  class="paragraph-wrapper">
     <div class="inner">
       <header><h2>{{speaker.name}}</h2></header>
       <figure>{{speaker.title}}</figure>
