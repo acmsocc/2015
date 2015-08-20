@@ -8,7 +8,7 @@ day0:
   title: Welcome Reception
 day1:
 - end: 8:30 AM
-  start: 7:00 AM
+  start: 7:45 AM
   talks: []
   title: Continental Breakfast
 - end: 8:40 AM
@@ -129,7 +129,7 @@ day1:
   chair: 'Siddhartha Sen, Microsoft Research'
 day2:
 - end: 8:30 AM
-  start: 7:00 AM
+  start: 7:45 AM
   talks: []
   title: Continental Breakfast
 - end: 8:40 AM
@@ -262,7 +262,7 @@ day2:
   title: Banquet
 day3:
 - end: 8:30 AM
-  start: 7:00 AM
+  start: 7:45 AM
   talks: []
   title: Continental Breakfast
 - end: 10:10 AM
