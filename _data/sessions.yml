@@ -1,8 +1,8 @@
 day0:
 - end: 8:00 PM
   start: 6:00 PM
-  talks: 
-  - authors: 
+  talks:
+  - authors:
     - Bar open until 9.00 PM
     title: 'Hilton Grand Staircase'
   title: Welcome Reception
@@ -21,7 +21,7 @@ day1:
   - authors:
     - Samuel Madden, MIT
     title: 'Interactive Data Analytics: the New Frontier'
-    url: 'http://acmsocc.github.io/2015/keynotes.html'
+    url: 'http://acmsocc.github.io/2015/keynotes.html#sammadden'
   title: 'Keynote 1'
   chair: 'Magdalena Balazinska, University of Washington'
 - end: 10:30 AM
@@ -142,7 +142,7 @@ day2:
   - authors:
     - 'Eric Brewer, Google & University of California, Berkeley'
     title: 'Kubernetes and the Path to Cloud Native'
-    url: 'http://acmsocc.github.io/2015/keynotes.html'
+    url: 'http://acmsocc.github.io/2015/keynotes.html#ericbrewer'
   title: 'Keynote 2'
   chair: 'Michael Freedman, Princeton University'
 - end: 10:10 AM
