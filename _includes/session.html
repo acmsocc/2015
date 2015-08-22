@@ -13,6 +13,10 @@
           </div>
         </th>
         <th class="session-info">
+          {% assign is_keynote = false %}
+          {% if session.title contains 'Keynote' %}
+            {% assign is_keynote = true %}
+          {% endif %}
           <h4 class="session-title">{{session.title}}</h4>
           {% if session.chair %}
             <h5 style="margin-top:4px;">Chair: {{session.chair}}</h5>
@@ -20,9 +24,13 @@
           <div class="details">
             {% if session.talks %}
             <ul class="session-list">
+              {% assign showlinks = false %}
+              {% if include.showlinks == "true" %}
+                {% assign showlinks = true %}
+              {% endif %}
               {% for talk in session.talks %}
               <li>
-                {% if talk.url %}
+                {% if talk.url and (showlinks or is_keynote) %}
                 <a href="{{talk.url}}"><h4 class="talk-title-link">{{ talk.title }}</h4></a>
                 {% else %}
                 <h4 class="talk-title">{{ talk.title }}</h4>
