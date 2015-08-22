@@ -32,12 +32,14 @@ day1:
     - Xuechen Zhang (University of Oregon)
     - Karsten Schwan (Georgia Institute of Technology)
     title: 'Understanding Issue Correlations: A Case Study of the Hadoop System'
+    url: 'http://dl.acm.org/authorize?N91233'
   - authors:
     - Kirill Bogdanov (KTH Royal Institute of Technology)
     - !!python/str "Miguel Pe\xF3n-Quir\xF3s (University Complutense of Madrid)"
     - Gerald Q. Maguire Jr. (KTH Royal Institute of Technology)
     - Dejan Kostic (KTH Royal Institute of Technology)
     title: The Nearest Replica Can Be Farther Than You Think
+    url: 'http://dl.acm.org/authorize?N91234'
   - authors:
     - Richard Li (University of Utah)
     - Dallin Abendroth (University of Utah)
@@ -48,6 +50,7 @@ day1:
     - Robert Ricci (University of Utah)
     - Jacobus Van der Merwe (University of Utah)
     title: 'POTASSIUM: Penetration Testing as a Service'
+    url: 'http://dl.acm.org/authorize?N91245'
   title: Testing
   chair: 'Sumita Barahmand, Microsoft'
 - end: 11:00 AM
@@ -62,18 +65,20 @@ day1:
     - Mike O'Connor (NVIDIA / UT-Austin)
     - Tor M. Aamodt (The University of British Columbia)
     title: 'MemcachedGPU: Scaling-up Scale-out Key-value Stores'
+    url: 'http://dl.acm.org/authorize?N91246'
   - authors:
     - Sergey Grizan (Special Design and Technological Bureau "Nauka" Krasnoyarsk Scientific Centre of Russian Academy of Sciences)
     - David Chu (Microsoft Research)
     - Alec Wolman (Microsoft Research)
     - Roger Wattenhofer (ETH Zurich)
-    title: 'dJay: Enabling High-density Multi-tenancy for Cloud Gaming Servers with
-      Dynamic Cost-Benefit GPU Load Balancing'
+    title: 'dJay: Enabling High-density Multi-tenancy for Cloud Gaming Servers with dynamic Cost-Benefit GPU Load Balancing'
+    url: 'http://dl.acm.org/authorize?N91247'
   - authors:
     - Quanlu Zhang (Peking University)
     - Yafei Dai (Peking University)
     - Lintao Zhang (Microsoft Research Asia)
     title: 'DSwitch: A Dual Mode Direct and Network Attached Disk'
+    url: 'http://dl.acm.org/authorize?N91248'
   - authors:
     - David Zats (University of California, Berkeley & Google)
     - Anand Padmanabha Iyer (University of California, Berkeley)
@@ -83,6 +88,7 @@ day1:
     - Ion Stoica (University of California, Berkeley)
     - Amin Vahdat (Google & University of California, San Diego)
     title: 'FastLane: Making Short Flows Shorter with Agile Drop Notification'
+    url: 'http://dl.acm.org/authorize?N91249'
   title: New Architectures
   chair: 'Spyros Blanas, The Ohio State University'
 - end: 1:30 PM
@@ -105,26 +111,30 @@ day1:
     - Daniel Sanchez (MIT)
     - Christos Kozyrakis (Stanford University)
     title: 'Tarcil: Reconciling Scheduling Speed and Quality in Large Shared Clusters'
+    url: 'http://dl.acm.org/authorize?N91240'
   - authors:
     - Chien-Chun Hung (University of Southern California)
     - Leana Golubchik (University of Southern California)
     - Minlan Yu (University of Southern California)
     title: Scheduling Jobs Across Geo-Distributed Datacenters
+    url: 'http://dl.acm.org/authorize?N91241'
   - authors:
     - Hui Lu (Department of Computer Science, Purdue University)
     - Brendan Saltaformaggio (Department of Computer Science, Purdue University)
     - Ramana Kompella (Google Inc. and Purdue University)
     - Dongyan Xu (Department of Computer Science, Purdue University)
     title: 'vFair: Latency-Aware Fair Storage Scheduling via Per-IO Cost-Based Differentiation'
+    url: 'http://dl.acm.org/authorize?N91242'
   - authors:
     - Emilio Coppa (Sapienza University of Rome)
     - Irene Finocchi (Sapienza University of Rome)
     title: On Data Skewness, Stragglers, and MapReduce Progress Indicators
+    url: 'http://dl.acm.org/authorize?N91243'
   - authors:
     - Feilong Liu (The Ohio State University)
     - Spyros Blanas (The Ohio State University)
-    title: Forecasting the Cost of Processing Multi-join Queries via Hashing for Main-memory
-      Databases
+    title: Forecasting the Cost of Processing Multi-join Queries via Hashing for Main-memory Databases
+    url: 'http://dl.acm.org/authorize?N91244'
   title: Scheduling and Performance modeling
   chair: 'Siddhartha Sen, Microsoft Research'
 day2:
@@ -152,6 +162,7 @@ day2:
     - Azza Abouzied (New York University Abu Dhabi)
     - Jay Chen (New York University Abu Dhabi)
     title: Harnessing Data Loss with Forgetful Data Structures
+    url: 'http://dl.acm.org/authorize?N91355'
   - authors:
     - Ioan Stefanovici (University of Toronto)
     - Eno Thereska (Microsoft Research)
@@ -162,18 +173,21 @@ day2:
     - Antony Rowstron (Microsoft Research)
     - Tom Talpey (Microsoft)
     title: 'Software-Defined Caching: Managing Caches in Multi-Tenant Data Centers'
+    url: 'http://dl.acm.org/authorize?N91356'
   - authors:
     - Ding Li (University of Southern California)
     - James Mickens (Harvard University)
     - Suman Nath (Microsoft Research)
     - Lenin Ravindranath (Microsoft Research)
     title: 'Domino: Understanding Wide-Area, Asynchronous Event Chains in Web Applications'
+    url: 'http://dl.acm.org/authorize?N91357'
   - authors:
     - Willis Lang (Microsoft)
     - Frank Bertsch (University of Wisconsin-Madison)
     - David J. DeWitt (Microsoft)
     - Nigel Ellis (Microsoft)
     title: Microsoft Azure SQL Database Telemetry
+    url: 'http://dl.acm.org/authorize?N91358'
   title: Short Papers
   chair: 'Philip Bernstein, Microsoft Research'
 - end: 10:40 AM
@@ -189,6 +203,7 @@ day2:
     - Indranil Gupta (University of Illinois at Urbana-Champaign)
     - Roy H. Campbell (University of Illinois at Urbana-Champaign)
     title: 'Zorro: Zero-Cost Reactive Failure Recovery in Distributed Graph Processing'
+    url: 'http://dl.acm.org/authorize?N91359'
   - authors:
     - Jaemyung Kim (University of Waterloo)
     - Kenneth Salem (University of Waterloo)
@@ -196,6 +211,7 @@ day2:
     - Ashraf Aboulnaga (Qatar Computing Research Institute)
     - Xin Pan (University of Waterloo)
     title: Database High Availability Using SHADOW Systems
+    url: 'http://dl.acm.org/authorize?N91350'
   - authors:
     - Lianghong Xu (Carnegie Mellon University)
     - Andrew Pavlo (Carnegie Mellon University)
@@ -203,13 +219,14 @@ day2:
     - Jin Li (Microsoft Research)
     - Gregory R. Ganger (Carnegie Mellon University)
     title: Reducing Replication Bandwidth for Distributed Document Databases
+    url: 'http://dl.acm.org/authorize?N91351'
   - authors:
     - Lin Xiao (Carnegie Mellon University)
     - Kai Ren (Carnegie Mellon University)
     - Qing Zheng (Carnegie Mellon University)
     - Garth A. Gibson (Carnegie Mellon University)
-    title: 'ShardFS vs. IndexFS: Replication vs. Caching Strategies for Distributed
-      Metadata Management in Cloud Storage Systems'
+    title: 'ShardFS vs. IndexFS: Replication vs. Caching Strategies for Distributed Metadata Management in Cloud Storage Systems'
+    url: 'http://dl.acm.org/authorize?N91352'
   title: High Availability and Replication
   chair: 'Fred Douglis, EMC'
 - end: 1:30 PM
@@ -234,13 +251,14 @@ day2:
     - Srikumar Venugopal (IBM Research, Ireland)
     - Anna Liu (National ICT Australia)
     title: Evaluating the Impact of Fine-scale Burstiness on Cloud Elasticity
+    url: 'http://dl.acm.org/authorize?N91353'
   - authors:
     - Bailu Ding (Cornell University)
     - Lucja Kot (Cornell University)
     - Alan Demers (Cornell University)
     - Johannes Gehrke (Microsoft Corporation, Cornell University)
-    title: 'Centiman: Elastic, High Performance Optimistic Concurrency Control by
-      Watermarking'
+    title: 'Centiman: Elastic, High Performance Optimistic Concurrency Control by Watermarking'
+    url: 'http://dl.acm.org/authorize?N91354'
   - authors:
     - Thomas Heinze (SAP SE)
     - Lars Roediger (SAP SE)
@@ -249,11 +267,13 @@ day2:
     - Zbigniew Jerzak (SAP SE)
     - Christof Fetzer (TU Dresden)
     title: Online Parameter Optimization for Elastic Data Stream Processing
+    url: 'http://dl.acm.org/authorize?N91365'
   - authors:
     - Senthil Nathan (IIT Bombay)
     - Umesh Bellur (IIT Bombay)
     - Purushottam Kulkarni (IIT Bombay)
     title: Towards a Comprehensive Performance Model of Virtual Machine Live Migration
+    url: 'http://dl.acm.org/authorize?N91366'
   title: Elasticity and Migration
   chair: 'Wyatt Lloyd, University of Southern California'
 - end: 9:00 PM
@@ -273,11 +293,13 @@ day3:
     - Amin Vahdat (Google & University of California, San Diego)
     - George Porter (University of California, San Diego)
     title: Achieving Cost-efficient, Data-intensive Computing in the Cloud
+    url: 'http://dl.acm.org/authorize?N91367'
   - authors:
     - Hiranya Jayathilaka (University of California, Santa Barbara)
     - Chandra Krintz (University of California, Santa Barbara)
     - Rich Wolski (University of California, Santa Barbara)
     title: Response Time Service Level Agreements for Cloud-hosted Web Applications
+    url: 'http://dl.acm.org/authorize?N91368'
   - authors:
     - Supreeth Subramanya (University of Massachusetts Amherst)
     - Tian Guo (University of Massachusetts Amherst)
@@ -285,14 +307,15 @@ day3:
     - David Irwin (University of Massachusetts Amherst)
     - Prashant Shenoy (University of Massachusetts Amherst)
     title: 'SpotOn: A Batch Computing Service for the Spot Market'
+    url: 'http://dl.acm.org/authorize?N91369'
   - authors:
     - George Prekas (EPFL)
     - Mia Primorac (EPFL)
     - Adam Belay (Stanford)
     - Christos Kozyrakis (Stanford)
     - Edouard Bugnion (EPFL)
-    title: Energy Proportionality and Workload Consolidation for Latency-critical
-      Applications
+    title: Energy Proportionality and Workload Consolidation for Latency-critical Applications
+    url: 'http://dl.acm.org/authorize?N91360'
   - authors:
     - Ioannis Manousakis (Rutgers University)
     - Inigo Goiri (Microsoft Research)
@@ -300,6 +323,7 @@ day3:
     - Thu D. Nguyen (Rutgers University)
     - Ricardo Bianchini (Rutgers University and Microsoft Research)
     title: 'CoolProvision: Underprovisioning Datacenter Cooling'
+    url: 'http://dl.acm.org/authorize?N91361'
   title: Cost and Performance Trade-offs
   chair: 'Azza Abouzied, New York University Abu Dhabi'
 - end: 10:40 AM
@@ -317,6 +341,7 @@ day3:
     - Michael I. Jordan (University of California, Berkeley)
     - Tim Kraska (Brown University)
     title: Automating Model Search for Large Scale Machine Learning
+    url: 'http://dl.acm.org/authorize?N91362'
   - authors:
     - Jinliang Wei (Carnegie Mellon University)
     - Wei Dai (Carnegie Mellon University)
@@ -327,8 +352,8 @@ day3:
     - Phillip B. Gibbons (Intel Labs)
     - Garth A. Gibson (Carnegie Mellon University)
     - Eric P. Xing (Carnegie Mellon University)
-    title: Managed Communication and Consistency for Fast Data-Parallel Iterative
-      Analytics
+    title: Managed Communication and Consistency for Fast Data-Parallel Iterative Analytics
+    url: 'http://dl.acm.org/authorize?N91363'
   - authors:
     - Henggang Cui (Carnegie Mellon University)
     - Kimberly Keeton (Hewlett-Packard Laboratories)
@@ -336,6 +361,7 @@ day3:
     - Krishnamurthy Viswanathan (Hewlett-Packard Laboratories)
     - Gregory R. Ganger (Carnegie Mellon University)
     title: Using Data Transformations for Low-latency Time Series Analysis
+    url: 'http://dl.acm.org/authorize?N91364'
   - authors:
     - Ming Wu (Microsoft Research)
     - Fan Yang (Microsoft Research)
@@ -347,6 +373,7 @@ day3:
     - Yafei Dai (Peking University)
     - Lidong Zhou (Microsoft Research)
     title: 'GraM: Scaling Graph Computation to the Trillions'
+    url: 'http://dl.acm.org/authorize?N91375'
   - authors:
     - Vinayak Borkar (X15 Software)
     - Yingyi Bu (University of California, Irvine)
@@ -357,5 +384,6 @@ day3:
     - Michael J. Carey (University of California, Irvine)
     - Vassilis J. Tsotras (University of California, Riverside)
     title: 'Algebricks: A Data Model-Agnostic Compiler Backend for Big Data Languages'
+    url: 'http://dl.acm.org/authorize?N91376'
   title: Complex Analytics
   chair: 'Jennie Duggan, Northwestern University'
