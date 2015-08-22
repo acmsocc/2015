@@ -1,0 +1,49 @@
+---
+layout: default
+---
+
+{% include slider-pc.html %}
+
+<!-- Content -->
+<div class="block">
+    <div class="container">
+        <div class="row">
+            <!--MAIN Content-->
+            <div class="col-md-9">
+                <div id="page-main">
+                          {% for mentor in site.data.assignments %}
+                          <h2 class="no-divider" style="margin-bottom:5px; margin-top:20px;">{{mentor.mentor}}</h2>
+                          <div class="row">
+                            <div class="col-md-6">
+                              {% for mentee in mentor.mentees %}
+                              {% assign value = forloop.index | modulo:2 %}
+                              {% if value == 1 %}
+                              {% include mentee-block.html name=mentee.name org=mentee.org %}
+                              {% endif %}
+                              {% endfor %}
+                            </div>
+                            <div class="col-md-6">
+                              {% for mentee in mentor.mentees %}
+                              {% assign value = forloop.index | modulo:2 %}
+                              {% if value == 0 %}
+                              {% include mentee-block.html name=mentee.name org=mentee.org %}
+                              {% endif %}
+                              {% endfor %}
+                            </div>
+                          </div> <!-- end row -->
+                          {% endfor %}
+
+
+
+                </div><!-- /#page-main -->
+            </div><!-- /.col-md-6 -->
+
+            <!--SIDEBAR Content-->
+
+            <div class="col-md-3">
+              {% include latest-news.html %}
+            </div><!-- /.col-md-3 -->
+        </div><!-- /.row -->
+    </div><!-- /.container -->
+</div>
+<!-- end Content -->
