@@ -1,56 +1,53 @@
 session1:
 - authors:
-  - Bilegsaikhan Naidan (Norwegian University of Science and Technology)
-  - Leonid Boytsov (Carnegie Mellon University)
-  - Eric Nyber (Carnegie Mellon University)
-  id: socc15posters-6
-  link: socc15posters-final6.pdf
-  title: Permutation Search Methods are Efficient, Yet Faster Search is Possible.
+  - Vinayak Borkar (X15 Software, Inc.)
+  - Yingyi Bu (University of California, Irvine)
+  - E. Preston Carman, Jr. (University of California, Riverside)
+  - Nicola Onose (X15 Software, Inc.)
+  - Till Westmann (Oracle Labs)
+  - Pouria Pirzadeh (University of California, Irvine)
+  - Michael J. Carey (University of California, Irvine)
+  - Vassilis J. Tsotras (University of California, Riverside)
+  id: socc15posters-61
+  link: socc15posters-final61.pdf
+  title: 'Algebricks: A Data Model-Agnostic Compiler Backend for Big Data Languages'
 - authors:
-  - Parth Nagarkar (Arizona State University)
-  - K. Selcuk Candan (Arizona State University)
-  - Aneesha Bhat (Arizona State University)
-  id: socc15posters-7
-  link: socc15posters-final7.pdf
-  title: Compressed Spatial Hierarchical Bitmap (cSHB) Indexes for Efficiently Processing
-    Spatial Range Query Workloads
+  - Jaemyung Kim (University of Waterloo)
+  - Kenneth Salem (University of Waterloo)
+  - Khuzaima Daudjee (University of Waterloo)
+  - Ashraf Aboulnaga (Qatar Computing Research Institute)
+  - Xin Pan (University of Waterloo)
+  id: socc15posters-51
+  link: socc15posters-final51.pdf
+  title: Database High Availability Using SHADOW Systems
 - authors:
-  - Anshul Gandhi (Stony Brook University)
-  - Parijat Dube (IBM Research)
-  - Andrzej Kochut (IBM Research)
-  - Li Zhang (IBM Research)
-  id: socc15posters-8
-  link: socc15posters-final8.pdf
-  title: Model-driven Autoscaling for Hadoop clusters
+  - Hiranya Jayathilaka (UC Santa Barbara)
+  - Chandra Krintz (UC Santa Barbara)
+  - Rich Wolski (UC Santa Barbara)
+  id: socc15posters-42
+  link: socc15posters-final42.pdf
+  title: Response Time Service Level Agreements for Cloud-hosted Web Applications
 - authors:
-  - Kangsoo Jung (Sogang University)
-  - Seog Park (Sogang University)
-  id: socc15posters-9
-  link: socc15posters-final9.pdf
-  title: Peer-to-Peer Collaborative Caching for Privacy-Preserving Location-based
-    Services
+  - Mayank Pundir (University of Illinois at Urbana-Champaign)
+  - Luke M. Leslie (University of Illinois at Urbana-Champaign)
+  - Indranil Gupta (University of Illinois at Urbana-Champaign)
+  - Roy H. Campbell (University of Illinois at Urbana-Champaign)
+  id: socc15posters-40
+  link: socc15posters-final40.pdf
+  title: 'Zorro: Zero-Cost Reactive Failure Recovery in Distributed Graph Processing'
 - authors:
-  - David Schwalb (Hasso Plattner Institute)
-  - Girish Kumar BK (NetApp)
-  - Martin Faust (Hasso Plattner Institute)
-  - Anusha S (NetApp)
-  - Markus Dreseler (Hasso Plattner Institute)
-  - Adolf Hohl (NetApp)
-  - Tim Berning (Hasso Plattner Institute)
-  - Gaurav Makkar (NetApp)
-  - Parag Deshmukh (NetApp)
-  id: socc15posters-10
-  link: socc15posters-final10.pdf
-  title: Using non-volatile RAM for inherent persistence and fast recovery of an in-memory
-    database
+  - Bailu Ding (Cornell University)
+  - Lucja Kot (Cornell University)
+  - Alan Demers (Cornell University)
+  - Johannes Gehrke (Cornell Unversity and Microsoft Corp.)
+  id: socc15posters-39
+  link: socc15posters-final39.pdf
+  title: 'Centiman: Elastic, High Performance Optimistic Concurrency Control by Watermarking'
 - authors:
-  - Jana Giceva (ETH Zurich)
-  - Gustavo Alonso (ETH Zurich)
-  - Timothy Roscoe (ETH Zurich)
-  - Tim Harris (Oracle Labs)
-  id: socc15posters-12
-  link: socc15posters-final12.pdf
-  title: Deployment of Query Plans on Multicores
+  - Sam Lightstone (IBM)
+  id: socc15posters-4
+  link: socc15posters-final4.pdf
+  title: 'KNOW MORE IN A DASH: dashDB ~Easy Webscale Data Warehousing in the Cloud'
 - authors:
   - Philip A. Bernstein (Microsoft Corp.)
   - Sergey Bykov (Microsoft Corp.)
@@ -60,15 +57,6 @@ session1:
   id: socc15posters-13
   link: socc15posters-final13.pdf
   title: 'Orleans: Virtual Actors for Programmability and Scalability of Cloud Applications'
-- authors:
-  - Taebo Jeong (Sogang University)
-  - Sehwa Park (Sogang University)
-  - Kangsoo Jung (Sogang University)
-  - Seog Park (Sogang University)
-  id: socc15posters-15
-  link: socc15posters-final15.pdf
-  title: A Noise Parameter Configuration Technique to Prevent Correlated Inference
-    Attack using Differential Privacy
 - authors:
   - Dimitar Misev (Jacobs University Bremen)
   - Vlad Merticariu (Jacobs University Bremen)
@@ -243,28 +231,111 @@ session1:
   link: socc15posters-final49.pdf
   title: 'DSwitch: A Dual Mode Direct and Network Attached Disk'
 - authors:
-  - Till Westmann (unaffiliated)
+  - Sattam Alsubaiee (University of California, Irvine)
+  - Yasser Altowim (University of California, Irvine)
+  - Hotham Altwaijry (University of California, Irvine)
+  - Alexander Behm (Cloudera -- work done at University of California, Irvine)
+  - Vinayak Borkar University of California, Irvine)
+  - Yingyi Bu (University of California, Irvine)
+  - Michael Carey (University of California, Irvine)
+  - Inci Cetindil (University of California, Irvine)
+  - Madhusudan Cheelangi (Google -- work done at University of California, Irvine)
+  - Khurram Faraaz (IBM -- work done at University of California, Irvine)
+  - Eugenia Gabrielova (University of California, Irvine)
+  - Raman Grover (University of California, Irvine)
+  - Zachary Heilbron (University of California, Irvine)
+  - Young-Seok Kim (University of California, Irvine)
+  - Chen Li (University of California, Irvine)
+  - Guangqiang Li (MarkLogic -- work done at University of California, Irvine)
+  - Ji Mahn Ok (University of California, Irvine)
+  - Nicola Onose (Pivotal -- work done at University of California, Irvine)
+  - Pouria Pirzadeh (University of California, Irvine)
+  - Vassilis Tsotras (University of California, Riverside)
+  - Rares Vernica (HP Labs -- work done at University of California, Irvine)
+  - Jian Wen (Oracle Labs -- work done at University of California, Riverside)
+  - Till Westmann, Oracle Labs
   id: socc15posters-66
   link: socc15posters-final66.pdf
   title: 'AsterixDB: A Big Data Management System AsterixDB: A Big Data Management
     System'
 - authors:
-  - David Zats (dzats2008@gmail.com)
-  - Anand Iyer (api@cs.berkeley.edu)
-  - Ganesh Ananthanarayanan (unaffiliated)
-  - Rachit Agarwal (agarwa16@illinois.edu)
-  - Randy Katz (unaffiliated)
+  - David Zats
+  - Anand Iyer
+  - Ganesh Ananthanarayanan
+  - Rachit Agarwal
+  - Randy Katz
   id: socc15posters-73
   link: socc15posters-final73.pdf
   title: 'FastLane: Making Short Flows Shorter with Agile Drop Notification'
 - authors:
-  - David Chu (unaffiliated)
-  - Sergey Grizan (unaffiliated)
+  - David Chu
+  - Sergey Grizan
   id: socc15posters-74
   link: socc15posters-final74.pdf
   title: 'dJay: Enabling High-density Multi-tenancy for Cloud Gaming Servers with
     Dynamic Cost-Benefit GPU Load Balancing'
+- authors:
+  - Samira Elhami Moghadam
+  - Mehran Sharghi
+  - Reza Azmi
+  id: socc15posters-33
+  link: socc15posters-final33.pdf
+  title: 'GordSystem: Approximate Query Processing for Very Large Streaming Data'
 session2:
+- authors:
+  - Taebo Jeong (Sogang University)
+  - Sehwa Park (Sogang University)
+  - Kangsoo Jung (Sogang University)
+  - Seog Park (Sogang University)
+  id: socc15posters-15
+  link: socc15posters-final15.pdf
+  title: A Noise Parameter Configuration Technique to Prevent Correlated Inference
+    Attack using Differential Privacy
+- authors:
+  - Parth Nagarkar (Arizona State University)
+  - K. Selcuk Candan (Arizona State University)
+  - Aneesha Bhat (Arizona State University)
+  id: socc15posters-7
+  link: socc15posters-final7.pdf
+  title: Compressed Spatial Hierarchical Bitmap (cSHB) Indexes for Efficiently Processing
+    Spatial Range Query Workloads
+- authors:
+  - Anshul Gandhi (Stony Brook University)
+  - Parijat Dube (IBM Research)
+  - Andrzej Kochut (IBM Research)
+  - Li Zhang (IBM Research)
+  id: socc15posters-8
+  link: socc15posters-final8.pdf
+  title: Model-driven Autoscaling for Hadoop clusters
+- authors:
+  - Kangsoo Jung (Sogang University)
+  - Seog Park (Sogang University)
+  id: socc15posters-9
+  link: socc15posters-final9.pdf
+  title: Peer-to-Peer Collaborative Caching for Privacy-Preserving Location-based
+    Services
+- authors:
+  - David Schwalb (Hasso Plattner Institute)
+  - Girish Kumar BK (NetApp)
+  - Martin Faust (Hasso Plattner Institute)
+  - Anusha S (NetApp)
+  - Markus Dreseler (Hasso Plattner Institute)
+  - Adolf Hohl (NetApp)
+  - Tim Berning (Hasso Plattner Institute)
+  - Gaurav Makkar (NetApp)
+  - Parag Deshmukh (NetApp)
+  id: socc15posters-10
+  link: socc15posters-final10.pdf
+  title: Using non-volatile RAM for inherent persistence and fast recovery of an in-memory
+    database
+- authors:
+  - Jana Giceva (ETH Zurich)
+  - Gustavo Alonso (ETH Zurich)
+  - Timothy Roscoe (ETH Zurich)
+  - Tim Harris (Oracle Labs)
+  id: socc15posters-12
+  link: socc15posters-final12.pdf
+  title: Deployment of Query Plans on Multicores
 - authors:
   - Yazeed Alabdulkarim (University of Southern California)
   - Sumita Barahmand (Microsoft)
@@ -272,11 +343,6 @@ session2:
   id: socc15posters-2
   link: socc15posters-final2.pdf
   title: 'BG: A Scalable Benchmark for Interactive Social Networking Actions'
-- authors:
-  - Sam Lightstone (IBM)
-  id: socc15posters-4
-  link: socc15posters-final4.pdf
-  title: 'KNOW MORE IN A DASH: dashDB ~Easy Webscale Data Warehousing in the Cloud'
 - authors:
   - Anatoli U. Shein (University of Pittsburgh)
   - Panos K. Chrysanthis (University of Pittsburgh)
@@ -293,13 +359,6 @@ session2:
   id: socc15posters-24
   link: socc15posters-final24.pdf
   title: 'Taming Big Wide Tables: Layout Optimization based on Column Ordering'
-- authors:
-  - Samira Elhami Moghadam (Student)
-  - Mehran Sharghi (Professor Assistent)
-  - Reza Azmi (Professor Assistent)
-  id: socc15posters-33
-  link: socc15posters-final33.pdf
-  title: 'GordSystem: Approximate Query Processing for Very Large Streaming Data'
 - authors:
   - Qizhen Zhang (Tsinghua University)
   - Haoran Wang (Shanghai Jiao Tong University)
@@ -318,22 +377,6 @@ session2:
   link: socc15posters-final38.pdf
   title: Fine-scale Burstiness Spells Bad News for Elasticity!
 - authors:
-  - Bailu Ding (Cornell University)
-  - Lucja Kot (Cornell University)
-  - Alan Demers (Cornell University)
-  - Johannes Gehrke (Cornell Unversity and Microsoft Corp.)
-  id: socc15posters-39
-  link: socc15posters-final39.pdf
-  title: 'Centiman: Elastic, High Performance Optimistic Concurrency Control by Watermarking'
-- authors:
-  - Mayank Pundir (University of Illinois at Urbana-Champaign)
-  - Luke M. Leslie (University of Illinois at Urbana-Champaign)
-  - Indranil Gupta (University of Illinois at Urbana-Champaign)
-  - Roy H. Campbell (University of Illinois at Urbana-Champaign)
-  id: socc15posters-40
-  link: socc15posters-final40.pdf
-  title: 'Zorro: Zero-Cost Reactive Failure Recovery in Distributed Graph Processing'
-- authors:
   - George Prekas (EPFL)
   - Mia Primorac (EPFL)
   - Adam Belay (Stanford)
@@ -342,13 +385,6 @@ session2:
   id: socc15posters-41
   link: socc15posters-final41.pdf
   title: Energy Proportionality and Workload Consolidation for Latency-critical Applications
-- authors:
-  - Hiranya Jayathilaka (UC Santa Barbara)
-  - Chandra Krintz (UC Santa Barbara)
-  - Rich Wolski (UC Santa Barbara)
-  id: socc15posters-42
-  link: socc15posters-final42.pdf
-  title: Response Time Service Level Agreements for Cloud-hosted Web Applications
 - authors:
   - Thomas Heinze (SAP SE)
   - Lars Roediger (SAP SE)
@@ -377,15 +413,6 @@ session2:
   id: socc15posters-50
   link: socc15posters-final50.pdf
   title: On Data Skewness, Stragglers, and MapReduce Progress Indicators
-- authors:
-  - Jaemyung Kim (University of Waterloo)
-  - Kenneth Salem (University of Waterloo)
-  - Khuzaima Daudjee (University of Waterloo)
-  - Ashraf Aboulnaga (Qatar Computing Research Institute)
-  - Xin Pan (University of Waterloo)
-  id: socc15posters-51
-  link: socc15posters-final51.pdf
-  title: Database High Availability Using SHADOW Systems
 - authors:
   - Lianghong Xu (Carnegie Mellon University)
   - Andrew Pavlo (Carnegie Mellon University)
@@ -465,18 +492,6 @@ session2:
   link: socc15posters-final60.pdf
   title: 'Tarcil: Reconciling Scheduling Speed and Quality in Large Shared Clusters'
 - authors:
-  - Vinayak Borkar (X15 Software, Inc.)
-  - Yingyi Bu (University of California, Irvine)
-  - E. Preston Carman, Jr. (University of California, Riverside)
-  - Nicola Onose (X15 Software, Inc.)
-  - Till Westmann (Oracle Labs)
-  - Pouria Pirzadeh (University of California, Irvine)
-  - Michael J. Carey (University of California, Irvine)
-  - Vassilis J. Tsotras (University of California, Riverside)
-  id: socc15posters-61
-  link: socc15posters-final61.pdf
-  title: 'Algebricks: A Data Model-Agnostic Compiler Backend for Big Data Languages'
-- authors:
   - Ioannis Manousakis (Rutgers University)
   - Inigo Goiri (Microsoft Research)
   - Sriram Sankar (Godaddy)
@@ -520,10 +535,10 @@ session2:
   link: socc15posters-final69.pdf
   title: Harnessing Data Loss with Forgetful Data Structure
 - authors:
-  - WIllis Lang (Microsoft)
-  - Frank Bertsch (unaffiliated)
-  - David J. DeWitt (Microsoft)
-  - Nigel Ellis (unaffiliated)
+  - WIllis Lang
+  - Frank Bertsch
+  - David J. DeWitt
+  - Nigel Ellis
   id: socc15posters-70
   link: socc15posters-final70.pdf
   title: Microsoft Azure SQL Database Telemetry
@@ -544,3 +559,10 @@ session2:
   id: socc15posters-72
   link: socc15posters-final72.pdf
   title: 'TuPAQ: Automating Model Search for Large Scale Machine Learning'
+- authors:
+  - Bilegsaikhan Naidan (Norwegian University of Science and Technology)
+  - Leonid Boytsov (Carnegie Mellon University)
+  - Eric Nyber (Carnegie Mellon University)
+  id: socc15posters-6
+  link: socc15posters-final6.pdf
+  title: Permutation Search Methods are Efficient, Yet Faster Search is Possible.
