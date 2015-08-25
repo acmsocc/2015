@@ -99,6 +99,7 @@ day1:
   start: 1:30 PM
   talks: []
   title: Posters 1
+  url: 'http://acmsocc.github.io/2015/poster-sessions.html#session1'
 - end: 3:30 PM
   start: 3:00 PM
   talks: []
@@ -239,6 +240,7 @@ day2:
   start: 1:30 PM
   talks: []
   title: Posters 2
+  url: 'http://acmsocc.github.io/2015/poster-sessions.html#session2'
 - end: 3:30 PM
   start: 3:00 PM
   talks: []
