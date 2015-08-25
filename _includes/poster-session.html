@@ -1,0 +1,5 @@
+{% for poster in site.data.postersessions[include.session] %}
+  {% assign authors = poster.authors | join: ', ' %}
+  {% assign url = "posters/" | append: poster.link  %}
+  {% include poster-block.html title=poster.title authors=authors url=url %}
+{% endfor %}

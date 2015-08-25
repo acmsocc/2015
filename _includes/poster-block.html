@@ -1,0 +1,10 @@
+<div class="latest-course reset-box-sizing" style="margin-bottom:10px;">
+<aside class="description" style="padding:0;">
+  {% if include.url %}
+  <a href="{{include.url}}"><h4 style="margin-bottom:5px;">{{include.title}}</h4></a>
+  {% else %}
+  <h4 style="margin-bottom:5px;">{{include.title}}</h4>
+  {% endif %}
+<p class="course-meta">{{include.authors}}</p>
+</aside>
+</div>

@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+{% include slider-accepted-papers.html %}
+
+<!-- Content -->
+<div class="block">
+  <div class="container">
+    <div class="row">
+
+      <div class="col-md-9">
+        <section id="main-content">
+          <div class="section-content">
+            <h2 id="session1">Posters Session 1</h2>
+            {% include poster-session.html session="session1" %}
+            <br />
+            <br />
+            <h2 id="session2">Posters Session 2</h2>
+            {% include poster-session.html session="session2" %}
+          </div><!-- /.section-content -->
+        </section><!-- /.main-content -->
+      </div><!-- /.col-md-6 -->
+
+      <div class="col-md-3">
+        {% include latest-news.html %}
+      </div><!-- /.col-md-3 -->
+
+    </div><!-- /.row -->
+  </div><!-- /.container -->
+</div>
+<!-- end Content -->
