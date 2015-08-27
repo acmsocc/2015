@@ -9,6 +9,9 @@
   - email: yalabdul@usc.edu
     name: Yazeed Alabdulkarim
     org: University of Southern California
+  - email: sparks@cs.berkeley.edu
+    name: Evan Sparks
+    org: UC Berkeley
   mentor: Magda Balazinska
 - id: 2
   mentees:
@@ -21,6 +24,9 @@
   - email: yxfang@cs.hku.hk
     name: Yixiang Fang
     org: The University of Hong Kong
+  - email: mia.primorac@epfl.ch
+    name: Mia Primorac 
+    org: EPFL
   mentor: Philip Bernstein
 - id: 3
   mentees:
@@ -33,9 +39,15 @@
   - email: zcshang@se.cuhk.edu.hk
     name: Zechao Shang
     org: The Chinese University of Hong Kong
+  - email: hengganc@ece.cmu.edu
+    name: Henggang Cui
+    org: Carnegie Mellon University
   mentor: Michael Carey
 - id: 4
   mentees:
+  - email: licai@cs.utah.edu
+    name: Cai Li
+    org: University of Utah
   - email: supr.subr@gmail.com
     name: Supreeth Subramanya
     org: UMass Amherst
@@ -72,6 +84,9 @@
   - email: quick803@gmail.com
     name: Yuankai Guo
     org: University of Utah
+  - email: api@cs.berkeley.edu
+    name: Anand Padmanabha Iyer
+    org: UC Berkeley
   mentor: Indranil Gupta
 - id: 7
   mentees:
@@ -81,27 +96,18 @@
   - email: taylerh@ece.ubc.ca
     name: Tayler Hetherington
     org: The University of British Columbia
+  - email: ioan@cs.toronto.edu
+    name: Ioan Stefanovici
+    org: University of Toronto
   - email: hiranya@cs.ucsb.edu
     name: Hiranya Jayathilaka
     org: UC Santa Barbara
   mentor: Pat Helland
-- id: 8
+- id: 9
   mentees:
   - email: sadeka.islam@outlook.com
     name: Sadeka Islam
     org: University of New South Wales
-  - email: ioan@cs.toronto.edu
-    name: Ioan Stefanovici
-    org: University of Toronto
-  - email: hengganc@ece.cmu.edu
-    name: Henggang Cui
-    org: Carnegie Mellon University
-  - email: azure84@naver.com
-    name: Kangsoo Jung
-    org: Sogang University
-  mentor: Chandra Krintz
-- id: 9
-  mentees:
   - email: cendhu@cse.iitb.ac.in
     name: Senthil Nathan
     org: IIT Bombay
@@ -120,6 +126,9 @@
   - email: lmlesli2@illinois.edu
     name: Luke Leslie
     org: UIUC
+  - email: azure84@naver.com
+    name: Kangsoo Jung
+    org: Sogang University
   - email: maas@cs.washington.edu
     name: Ryan Maas
     org: University of Washington
@@ -141,6 +150,9 @@
   - email: frank@cs.umd.edu
     name: Frank Cangialosi
     org: University of Maryland
+  - email: liang@ccs.neu.edu
+    name: Liang Zhang
+    org: Northeastern University
   - email: kirill.sc@gmail.com
     name: Kirill Bogdanov
     org: KTH Royal Institute of Technology
@@ -148,15 +160,3 @@
     name: Emilio Coppa
     org: Sapienza University of Rome
   mentor: John Wilkes
-- id: 13
-  mentees:
-  - email: licai@cs.utah.edu
-    name: Cai Li
-    org: University of Utah
-  - email: liang@ccs.neu.edu
-    name: Liang Zhang
-    org: Northeastern University
-  - email: sparks@cs.berkeley.edu
-    name: Evan Sparks
-    org: UC Berkeley
-  mentor: Rich Wolski
