@@ -213,6 +213,7 @@ day2:
     - Xin Pan (University of Waterloo)
     title: Database High Availability Using SHADOW Systems
     url: 'http://dl.acm.org/authorize?N91350'
+    best: true
   - authors:
     - Lianghong Xu (Carnegie Mellon University)
     - Andrew Pavlo (Carnegie Mellon University)
@@ -356,6 +357,7 @@ day3:
     - Eric P. Xing (Carnegie Mellon University)
     title: Managed Communication and Consistency for Fast Data-Parallel Iterative Analytics
     url: 'http://dl.acm.org/authorize?N91363'
+    best: true
   - authors:
     - Henggang Cui (Carnegie Mellon University)
     - Kimberly Keeton (Hewlett-Packard Laboratories)
