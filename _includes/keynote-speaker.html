@@ -4,7 +4,11 @@
   <article id ="{{include.key}}"  class="paragraph-wrapper">
     <div class="inner">
       <header><h2>{{speaker.name}}</h2></header>
+      {% if speaker.url %}
+      <figure><a href="{{speaker.url}}">{{ speaker.title }}</a>
+      {% else %}
       <figure>{{speaker.title}}</figure>
+      {% endif %}
     <hr>
     <h3 class="speaker-header">Abstract</h3>
     <p style="color:#373737;">{{speaker.abstract}}</p>
