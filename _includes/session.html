@@ -35,7 +35,11 @@
               {% for talk in session.talks %}
               <li>
                 {% if talk.url and (showlinks or is_keynote) %}
-                <a href="{{talk.url}}"><h4 class="talk-title-link">{{ talk.title }}</h4></a>
+                  {% if talk.best %}
+                  <a href="{{talk.url}}"><h4 class="talk-title-link"><span class="glyphicon glyphicon-certificate" aria-hidden="true"></span> {{ talk.title }}</h4></a>
+                  {% else %}
+                  <a href="{{talk.url}}"><h4 class="talk-title-link">{{ talk.title }}</h4></a>
+                  {% endif %}
                 {% else %}
                 <h4 class="talk-title">{{ talk.title }}</h4>
                 {% endif %}
