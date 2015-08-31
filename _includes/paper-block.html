@@ -1,9 +1,9 @@
 <div class="latest-course reset-box-sizing" style="margin-bottom:30px;">
 <aside class="description" style="padding:0;">
-  {% if include.url %}
+  {% if include.url and include.paper %}
   <a href="{{include.url}}"><h4 style="margin-bottom:5px;"><span class="glyphicon glyphicon-certificate" aria-hidden="true"> </span> {{include.title}}</h4></a>
   {% else %}
-  <h4 style="margin-bottom:5px;">{{include.title}}</h4>
+  <a href="{{include.url}}"><h4 style="margin-bottom:5px;">{{include.title}}</h4></a>
   {% endif %}
 <!--<a href="#" class="course-category">Science</a>-->
 <p class="course-meta">{{include.authors}}</p>

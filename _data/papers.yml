@@ -11,6 +11,7 @@ research:
   - Eric P. Xing (Carnegie Mellon University)
   title: Managed Communication and Consistency for Fast Data-Parallel Iterative Analytics
   url: 'http://dl.acm.org/authorize?N91363'
+  paper: best
 - authors:
   - Christina Delimitrou (Stanford University)
   - Daniel Sanchez (MIT)
@@ -72,6 +73,7 @@ research:
   - Xin Pan (University of Waterloo)
   title: Database High Availability Using SHADOW Systems
   url: 'http://dl.acm.org/authorize?N91350'
+  paper: best
 - authors:
   - Hiranya Jayathilaka (University of California, Santa Barbara)
   - Chandra Krintz (University of California, Santa Barbara)
