@@ -8,5 +8,6 @@ sammadden:
 ericbrewer:
   name: 'Eric Brewer (Google & University of California, Berkeley)'
   title: Kubernetes and the Path to Cloud Native
+  url: 'http://acmsocc.github.io/2015/keynotes/socc15-keynote2.pdf'
   abstract: "We are in the midst of an important shift to higher levels of abstraction than virtual machines. Kubernetes aims to simplify the deployment and management of services, including the construction of applications as sets of interacting but independent services. We explain some of the key concepts in Kubernetes and show how they work together to simplify evolution and scaling."
   bio1: "Eric Brewer is a vice president of infrastructure at Google. He pioneered the use of clusters of commodity servers for Internet services, based on his research at Berkeley.  His “CAP Theorem” covers basic tradeoffs required in the design of distributed systems and followed from his work on a wide variety of systems, from live services, to caching and distribution services, to sensor networks. He is a member of the National Academy of Engineering, and winner of the ACM Infosys Foundation award for his work on large-scale services."
