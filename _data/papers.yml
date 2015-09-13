@@ -13,6 +13,15 @@ research:
   url: 'http://dl.acm.org/authorize?N91363'
   paper: best
 - authors:
+  - Jaemyung Kim (University of Waterloo)
+  - Kenneth Salem (University of Waterloo)
+  - Khuzaima Daudjee (University of Waterloo)
+  - Ashraf Aboulnaga (Qatar Computing Research Institute)
+  - Xin Pan (University of Waterloo)
+  title: Database High Availability Using SHADOW Systems
+  url: 'http://dl.acm.org/authorize?N91350'
+  paper: best
+- authors:
   - Christina Delimitrou (Stanford University)
   - Daniel Sanchez (MIT)
   - Christos Kozyrakis (Stanford University)
@@ -65,15 +74,6 @@ research:
   - Gregory R. Ganger (Carnegie Mellon University)
   title: Reducing Replication Bandwidth for Distributed Document Databases
   url: 'http://dl.acm.org/authorize?N91351'
-- authors:
-  - Jaemyung Kim (University of Waterloo)
-  - Kenneth Salem (University of Waterloo)
-  - Khuzaima Daudjee (University of Waterloo)
-  - Ashraf Aboulnaga (Qatar Computing Research Institute)
-  - Xin Pan (University of Waterloo)
-  title: Database High Availability Using SHADOW Systems
-  url: 'http://dl.acm.org/authorize?N91350'
-  paper: best
 - authors:
   - Hiranya Jayathilaka (University of California, Santa Barbara)
   - Chandra Krintz (University of California, Santa Barbara)
